@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>plastic chain &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/plastic-chain/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sat, 28 Feb 2009 20:13:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Talking Birds, Part 4</title>
+		<link>/talking-birds-part-4/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2008 01:57:34 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[birds]]></category>
+		<category><![CDATA[plastic chain]]></category>
+		<category><![CDATA[rod end]]></category>
+		<category><![CDATA[wings]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=158</guid>
+
+					<description><![CDATA[As previously discussed, the first generation talking bird was mechanically larger than the feathers covering it (fur, actually). While I did not have time to improve on the first bird, the second bird will be mechanically more compact. The trick is in how to mount the ball-and-socket rod ends. While the the ball-and-socket allows for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>As previously discussed, the first generation talking bird was mechanically larger than the feathers covering it (fur, actually). While I did not have time to improve on the first bird, the second bird will be mechanically more compact.</p>
+<p>The trick is in how to mount the ball-and-socket rod ends. While the the ball-and-socket allows for the rod to swivel 360° around the pivot point, it allows only a couple of degrees of movement up and down. That is if you screw it down on a flat surface.</p>
+<p>I figured out that by cannibalizing a rod end, I could screw the ball down atop another ball. This gives a lot greater freedom of movement. By doing this I&#8217;m able to place the rod at a steeper angle; thus, the servo can be placed closer. See the rod end mounted to another ball:</p>
+ [<a href="/talking-birds-part-4/">See image gallery at localhost</a>] 
+<p>Fascinating, you say? If you had spent 4 hours of your life staring at the end of a threaded rod, you too would find it fascinating.</p>
+<p>I know I&#8217;m not improving my position, so let&#8217;s move on.</p>
+<p>Having made my minor improvements to Rev. 2, we now have two functioning mechanisms:</p>
+ [<a href="/talking-birds-part-4/">See image gallery at localhost</a>] 
+<p>Note that I also tightened up on the chain. This is an easy thing to do when working with plastic chain. Twist it sideways and the links pop off, allowing you to shorten or lengthen at will. Assuming the chain is perfectly straight in the sprocket, the chain should take quite a bit of tension before it breaks.</p>
+<p>How much tension? I have no idea. Doesn&#8217;t matter because I have no idea how much torque is required to lift two puppet wings. Let&#8217;s hope not much.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

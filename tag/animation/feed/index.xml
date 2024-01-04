@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>animation &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/animation/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Tue, 15 Nov 2022 01:14:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2022: Expedition Everest</title>
+		<link>/halloween-2022-expedition-everest/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Tue, 15 Nov 2022 01:14:40 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Canon R6]]></category>
+		<category><![CDATA[DaVinci Resolve]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[lift mechanism]]></category>
+		<category><![CDATA[pneumatic]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<category><![CDATA[VenueMagic]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2321</guid>
+
+					<description><![CDATA[Scariest. Halloween. Ever. Needless to say, we were really pleased with this. And a bit surprised. It&#8217;s difficult to calculate the fear factor on any of our Halloween displays. Fright is often reliant on the element of surprise. Since in 2018 we tried to build a structure to conceal props from the street &#8211; and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Scariest. Halloween. Ever. Needless to say, we were really pleased with this. And a bit surprised.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Halloween 2022: Expedition Everest" width="620" height="349" src="https://www.youtube.com/embed/FWL9WhECFKA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>It&#8217;s difficult to calculate the fear factor on any of our Halloween displays. Fright is often reliant on the element of surprise. Since <a href="http://dougandruth.com/blog/halloween-2018-tibetan-yeti/" data-type="post" data-id="2229">in 2018 we tried to build a structure</a> to conceal props from the street &#8211; and failed, we have kind of given-up on building large structures or total concealment. Also we don&#8217;t generally get to try the whole thing until it is Halloween night.</p>
+
+
+
+<p>Since our basement is full, we are in a mode of trying to re-use past displays. Enough time had past that we thought it was worth another go at the Yeti. We had the props and media needed to do most of it. We developed a lot of new technology and felt we could make a large animatronic figure work reliably. All we needed was a way to make the yeti <em>pop</em>.</p>
+
+
+
+<p>One barrier to working with props next to our porch is that the stairs set the doorway about four feet above ground level. To get something scary to be in-your-face, we would need to raise the thing up on a platform or hang it from some kind of scaffold. Hanging the yeti had some appeal because the motion of the yeti could be tied to the vertical movement if we raised and lowered it.</p>
+
+
+
+<p>Fast forward two months to our having constructed a 12-foot tall truss, which notably does not fit in our basement. The truss has a 20-inch pneumatic cylinder at the top to drop the yeti down by its arm. His foot is mounted statically on the truss so the vertical drop forces his body to swing-out towards the unsuspecting kids. We did not think this would scare anyone.</p>
+
+
+
+<p>Part of the reason we though no one would be scared is because we have hung props by the porch before. It doesn&#8217;t matter what kind of lighting we throw on it or what shocking sound we have. Kids are are unphased by anything short of a trapdoor swallowing them up into a pit of eternal misery. The other reason is we didn&#8217;t have a good way to conceal the yeti. No matter what we did, you could see the yeti from the street. We were resigned to providing lackluster fear.</p>
+
+
+
+<p>After setting up most of the props, we cut down a 12-foot tall white pine in the backyard and put it in a Christmas tree stand. Placed in front of the yeti, the tree was a modest attempt at concealment. At the very least, it looked outdoorsy. Like the way they have trees &#8211; in Tibet.</p>
+
+
+
+<p>The fact that many people failed to see the yeti is not wholly credited to the tree. There were a couple other factors that worked as a distraction: The video on the door worked as a red herring. There seemed to be a &#8220;if we make it to the top step, we&#8217;re safe&#8221; attitude. This worked in part, because we ran the video and the animatronic on two separate threads in the show controller by using light beam triggers at the bottom and just past the top of the stairs. This meant the yeti would not be triggered until you fully committed to walking toward the door. Also, the speaker placement for the video soundtrack was cheated to the left which seemed to make people look away from the yeti on the right? Maybe? Regardless, there was no way this was going to scare anyone.</p>
+
+
+
+<p>We knew we were successful/in-trouble when the first child came up the stairs, saw the yeti, then broke into tears. The parents reaction to this was incredibly gracious. In fact, parents <em>overwhelmingly </em>enjoyed this year&#8217;s display. To the detriment of their children, parental guardians willingly pushed their terrified children up the stairs to meet their fate. When the kids refused, the parents came up. We had more parents take in the experience for themselves than in any other year.</p>
+
+
+
+<p>This is not to suggest that kids didn&#8217;t like it. There are kids that love to be challenged and we were told repeatedly that we could do this theme <em>every </em>year. This might be a rebuke of our past efforts, but we created an inferred challenge that now must be met on an annual basis.</p>
+
+
+
+<p>218 kids got candy this year. Some were handed to parents or siblings. Some kids ran away too fast.</p>
+
+
+
+<p>Halloween is not just about candy.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Halloween 2019: Bats</title>
+		<link>/halloween-2019-bats/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2019 01:46:07 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[LG G6]]></category>
+		<category><![CDATA[microcontrollers]]></category>
+		<category><![CDATA[PIC-IO]]></category>
+		<category><![CDATA[repeatability]]></category>
+		<category><![CDATA[Sprite]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2231</guid>
+
+					<description><![CDATA[The last couple of years has caused us to undertake a review of our technical capabilities. Too much had gone wrong or become unreliable. While the theme is usually our chief concern, this year the goal was to lock-down some of the basic building blocks of our theatrical show system. The first item was video. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The last couple of years has caused us to undertake a review of our technical capabilities. Too much had gone wrong or become unreliable. While the theme is usually our chief concern, this year the goal was to lock-down some of the basic building blocks of our theatrical show system.</p>
+
+
+
+<p>The first item was video. The video is played back on a <a href="https://www.frightprops.com/video-visual-effects/digital-video-players/sprite-seamless-looping-hd-triggerable-video-player.html">MedeaWiz Sprite</a> with a DMX interface. We had tried to use video last year and it failed miserably because of a bad cable connection. It was a stupid problem to have, so that got addressed. But how to use it? A quick search of Halloween related videos on the Internet results in the idea of making bats fly out of the doorway.</p>
+
+
+
+<p>Creating the video was fairly straightforward, but the key to making it feel creepy was in the audio. Without the sound, the images looked a bit like a Rorschach test. They needed that squeaky sound that bats make to add context. More importantly, it needed to sound like the bats were getting closer.</p>
+
+
+
+<p>To make the bats sound menacing, multiple tracks were played across five channels of surround sound. The most distant chirping sounds were at the corners of the house. Closer-up were large wing flapping sounds nearest to the stairs. The wing flapping was not a real bat sound, but the idea of a bat flying close to your head.</p>
+
+
+
+<p>The last channel was placed across the street. We used long-range Bluetooth to transmit the bats sounds to a speaker in our neighbor&#8217;s yard. This is a technical advance we will probably use in the future because it really messed with people. It was fun to watch people during the first three seconds of the video where they thought: There are bats. The bats are coming at me. The bats are everywhere.</p>
+
+
+
+<p>One new piece of tech that we will definitely use every year was a new light beam trigger. We have used a light beam at the base of the stairs to start the show for years, but it always had the problem of re-triggering the show when people exited. We used to mitigate this problem by adding a delay before the show could be restarted, but that works only if people arrive at given rate.</p>
+
+
+
+<p>The new trigger has two light beams. This is similar to the electronic turnstiles Disney used about a decade ago. A microcontroller board was programmed to check the order in which the beams were broken so we could determine the direction of movement. Going up the stairs starts the bat video. Going down the stairs made a cat screeching sound &#8211; just because we could.</p>
+
+
+
+<p>Lastly, we upgraded our speaker system. The new speakers are more weather resistant and handle a lot more power. This was needed to reduce stress as much as wanting to improve sound quality. Rain is inevitable and this year was a perfect example. It was nice to have the speakers out all day in the rain without worrying about them. It was also nice to drive the smaller speakers by the stairs as hard a we wanted to.</p>
+
+
+
+<p>The video below was mixed to be in surround sound, but YouTube re-mixes it down to stereo, so you can&#8217;t really get the full effect. Next time we invite you over, make sure to ask to see the version on the home server.</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
+<iframe title="Bats Halloween 2019" width="620" height="349" src="https://www.youtube.com/embed/uber7FydMFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Testing the Directional Beam Trigger" width="620" height="349" src="https://www.youtube.com/embed/XuKWYFUxLa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Halloween 2018: Tibetan Yeti</title>
+		<link>/halloween-2018-tibetan-yeti/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2018 00:49:51 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[panic]]></category>
+		<category><![CDATA[pneumatic]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2229</guid>
+
+					<description><![CDATA[The plan was to recreate a Disney World attraction. Not just put on costumes and play It&#8217;s a Small World over and over, but create a fully immersive, multimedia walk-through with interactive video projection and animated props. It was to be the greatest Halloween decorating effort to ever exist. Then a computer interface broke and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The plan was to recreate a Disney World attraction. Not just put on costumes and play <em>It&#8217;s a Small World</em> over and over, but create a fully immersive, multimedia walk-through with interactive video projection and animated props. It was to be the greatest Halloween decorating effort to ever exist. Then a computer interface broke and none of it happened.</p>
+
+
+
+<p>The plan was conceived of while on vacation several years ago.  There is a spot on Expedition Everest at Disney&#8217;s Animal Kingdom where the roller coaster stops and an image of a yeti is shown tearing up the track. We recorded a video of the ride and noticed that the yeti image came through pretty well. It was then that we had the thought that if you had the right seat on the train and had a camera set-up with the right lens, one might be able to acquire a copy of the yeti projection.</p>
+
+
+
+<p>Fast forward to this year. Camera in hand, we ride through a few times and get the video in question:</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Expedition Everest Ride Through" width="620" height="349" src="https://www.youtube.com/embed/uhquejdj3_o?start=61&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Having the video was only a small part of the plan. As in the ride, the video is only a distraction to misdirect the viewer from seeing the big scary surprise moment. For that we would need a seven-foot tall animated yeti.</p>
+
+
+
+<p>For the body of the yeti, we cheated and bought a costume. In retrospect, it might have been a better plan to hire some kid to wear the costume and simply jump out of the bushes periodically, but in true Disney style we built a frame to support the costume with pneumatic arm lifts and animated eyes. </p>
+
+
+
+<p>The animated eyes gave the yeti life. They would look around and blink just like a real yeti. The eye animation was executed from a Raspberry Pi single board computer separate from the rest of the system, so they would work even if everything else failed.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Yeti Halloween 2018" width="620" height="465" src="https://www.youtube.com/embed/GGGiwr6JtR8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>The rest was lighting, music and staging. With a tent in the yard, Tibetan music playing and fluttering prayer flags, you were supposed to be transported to a hiking camp on the way to climb Everest. However, with all the lighting, video and the yeti movement under computer control, everything was left dark when the computer died.</p>
+
+
+
+<p>Ultimately, the plan was probably flawed from the start. We overestimated how many families would have visited Disney World. It seemed like not that many people got the references to Tibet. Presence of the tent just confused people. Most concluded that the theme was &#8220;winter camping.&#8221; Hard to argue with that.</p>
+
+
+
+ [<a href="/halloween-2018-tibetan-yeti/">See image gallery at localhost</a>] 
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

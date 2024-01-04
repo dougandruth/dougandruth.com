@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>aluminum &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/aluminum/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Fri, 27 Feb 2009 22:51:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Talking Birds, Part 1</title>
+		<link>/talking-birds-part-1/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2008 01:24:03 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[acting]]></category>
+		<category><![CDATA[aluminum]]></category>
+		<category><![CDATA[birds]]></category>
+		<category><![CDATA[fear]]></category>
+		<category><![CDATA[linkages]]></category>
+		<category><![CDATA[puppets]]></category>
+		<category><![CDATA[ravens]]></category>
+		<category><![CDATA[repeatability]]></category>
+		<category><![CDATA[servos]]></category>
+		<category><![CDATA[sprockets]]></category>
+		<category><![CDATA[taxidermy]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=115</guid>
+
+					<description><![CDATA[I have this idea: Two birds sit atop a gravestone and talk to one another with a kind of gallows humor. There&#8217;s a subtlety to this I like. If done properly the birds, ravens, should look fairly real. In telling jokes they should be able to react one another. After all, &#8220;Acting is reacting.&#8221; I [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I have this idea:</p>
+<p>Two birds sit atop a gravestone and talk to one another with a kind of gallows humor. There&#8217;s a subtlety to this I like. If done properly the birds, ravens, should look fairly real. In telling jokes they should be able to react one another. After all, &#8220;Acting is reacting.&#8221;</p>
+<p>I guess this is really the point. The only reason to use animated figures (as opposed to human actors) is to present a figure that a person can&#8217;t accurately portray. Okay, there are other reasons like cost or repeatability, but for non-commercial use, if I could fit inside a bird suit and convince anyone I could fly, I would. Likewise I do not make a good Jack Skeleton or Great Pumpkin. Maybe the Great Pumpkin is doable.</p>
+<p>Anyway, the birds should give the spooky decorated front yard a certain <em>feel</em>. Clearly the birds are not going to scare anyone. I just want them to seem a bit afraid. Maybe, in turn, passers by will also feel afraid. It&#8217;s a theory.</p>
+<p>Here are some parts:</p>
+ [<a href="/talking-birds-part-1/">See image gallery at localhost</a>] 
+<p>After suggesting that Ruth learn taxidermy and my specifying the height and weight of the ravens I need her to catch, she suggested the use of hand puppets. While not as realistic as I had hoped, the puppets are ideal for the purpose of being&#8230; well&#8230; puppets.</p>
+<p>To that we will add:</p>
+<ul>
+<li>6 <a href="http://servocity.com/html/hs-322hd_standard_deluxe.html" target="_blank">servos</a></li>
+<li>3&#8242; <a href="http://servocity.com/html/threaded_rod.html" target="_blank">threaded rod</a></li>
+<li>9&#8243; <a href="http://servocity.com/html/3_16__precision_shafting.html" target="_blank">steel shaft</a></li>
+<li>12 <a href="http://servocity.com/html/4-40x3_16__heavy_duty.html" target="_blank">ball linkages</a></li>
+<li>2 <a href="http://servocity.com/html/plain_bore_sprockets___1227_.html" target="_blank">plain bore sprockets</a></li>
+<li>2 <a href="http://servocity.com/html/servo_sprockets___1227_.html" target="_blank">servo mount sprockets</a></li>
+<li>4 <a href="http://servocity.com/html/set_screw_hubs.html" target="_blank">set screw hubs</a></li>
+<li>4 <a href="http://servocity.com/html/steel_set_screw_collars.html">lock collars</a></li>
+<li>2 <a href="http://servocity.com/html/ball_bearings.html" target="_blank">ball bearings</a></li>
+<li>2&#8242; <a href="http://servocity.com/html/chain.html" target="_blank">plastic chain</a></li>
+<li>6 <a href="http://servocity.com/html/36__servo_extensions.html" target="_blank">servo extension cables</a></li>
+<li>2 1&#8243; hinges</li>
+<li><a href="http://www.mcmaster.com/#aluminum/=rsja5" target="_blank">aluminum stock</a></li>
+<li>a whole bunch of <a href="http://www.mcmaster.com/#machine-screws/=rsiqr" target="_blank">4-40 screws</a>, nuts and washers</li>
+</ul>
+<p>Now we just need to put it all together!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

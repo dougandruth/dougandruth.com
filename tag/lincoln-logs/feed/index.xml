@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lincoln Logs &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/lincoln-logs/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Fri, 27 Feb 2009 22:39:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Talking Birds, Part 2</title>
+		<link>/talking-birds-part-2/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sun, 14 Sep 2008 01:47:11 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[backbone]]></category>
+		<category><![CDATA[birds]]></category>
+		<category><![CDATA[brackets]]></category>
+		<category><![CDATA[Erector Set]]></category>
+		<category><![CDATA[Lincoln Logs]]></category>
+		<category><![CDATA[manufacturing]]></category>
+		<category><![CDATA[neck joint]]></category>
+		<category><![CDATA[rod end]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=127</guid>
+
+					<description><![CDATA[Truth be told, I like planning these projects much more than assembling them. I learned several years ago that manufacturing things is hard. In fact, the smaller the parts the harder it is. Conceptually, the parts of the bird go together like Lincoln Logs. Objectively, it&#8217;s really hard to make anything out of Lincoln Logs [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Truth be told, I like planning these projects much more than assembling them. I learned several years ago that manufacturing things is hard. In fact, the smaller the parts the harder it is.</p>
+<p>Conceptually, the parts of the bird go together like Lincoln Logs. Objectively, it&#8217;s really hard to make anything out of Lincoln Logs that you can fit up the butt of a hand puppet.</p>
+<p>It would be great if only my local hardware store would stock a myriad of little brackets in varying sizes; tiny little metal shapes that would have no use in home construction. But they don&#8217;t.</p>
+<p>I know. Some hobby stores carry some Erector Set like things for mounting servos or other small items, but they often get $4 for a ¼&#8221; L-bracket and that just doesn&#8217;t seem reasonable. Even at 50¢, you have to ask the question &#8220;How long will it take me to make these with a hack saw and a length of L-bar or U-channel?&#8221; If you cut the parts yourself, you can have any size you want for very little money.</p>
+<p>Here&#8217;s an example:</p>
+ [<a href="/talking-birds-part-2/">See image gallery at localhost</a>] 
+<p>How to create a neck joint at the top of the backbone? It needs to be at a certain angle and have a certain range of movement. I&#8217;m not sure how it should be done either. I think that a rod end affixed to the end of the L-bar should work.</p>
+<p>And yes, I&#8217;m totally guessing at the angle.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

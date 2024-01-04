@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>facade &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/facade/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sat, 08 Oct 2022 13:34:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2012: Mummy&#8217;s Curse Puzzle Door of Doom</title>
+		<link>/mummys-curse-puzzle-door-of-doom/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Wed, 21 Nov 2012 21:12:33 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[facade]]></category>
+		<category><![CDATA[Foam Coat]]></category>
+		<category><![CDATA[hieroglyphics]]></category>
+		<category><![CDATA[mummy]]></category>
+		<category><![CDATA[PIC-IO]]></category>
+		<category><![CDATA[pneumatic]]></category>
+		<category><![CDATA[repeatability]]></category>
+		<category><![CDATA[snakes]]></category>
+		<category><![CDATA[tomb]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=831</guid>
+
+					<description><![CDATA[Seven years ago we had a Halloween party that involved the construction of a life-sized moving sarcophagus and half a dozen mummies. Since these things are just taking up space in the basement, we decided to reuse them this year.&#160; Reduce, reuse, recycle. That&#8217;s our motto. Except (always a dangerous word), we also decided that [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a title="Halloween Party 2005" href="http://dougandruth.com/blog/?p=105">Seven years ago</a> we had a Halloween party that involved the construction of a life-sized moving sarcophagus and half a dozen mummies. Since these things are just taking up space in the basement, we decided to reuse them this year.&nbsp; Reduce, reuse, recycle. That&#8217;s our motto.</p>
+<p>Except (always a dangerous word), we also decided that after <a title="Halloween 2011: Dia de los Muertos" href="http://dougandruth.com/blog/?p=696">last year&#8217;s success</a> of adding interactive elements to the display, we would make the trick-or-treaters jump through some sort of hoop, metaphorically speaking.</p>
+<p>This lead to re-watching mummy movies and discussing the appropriateness of using live spiders or beetles to make gags more &#8220;interactive&#8221;. In ancient Egypt, there were always insects or snakes that lived forever to protect the tomb of the Pharaoh. We should have the same, but the important part of the experience is the challenge one has to face before being thrown into the pit full of asps.</p>
+<p>The challenge, we decided, would be to make the kids solve a puzzle. The movies always have a puzzle &#8211; translate the hieroglyphics, find the hidden lever on the wall, pull the lever &#8211; then run like hell when the floor opens up to a pit full of asps. Clearly, some of this idea has merit.</p>
+<p>What we decided on was placing four buttons on the door that had to be pressed in order to be granted candy. While there would be hieroglyphics on the door, you wouldn&#8217;t need to translate them. You would need only to match the pattern of icons on the door to those on the buttons. A clever person could get it straight away. A determined person could get it within 16 tries.</p>
+<p>Here is where we get in trouble. Since the theme is set in a mummy&#8217;s tomb, the door, the buttons, and ideally everything else need to be made out of stone. Or something that looks like stone.</p>
+ [<a href="/mummys-curse-puzzle-door-of-doom/">See image gallery at localhost</a>] 
+<p>In building our sarcophagus, we had learned some things about carving foam and coating the foam with a hard resin. The picture above show the work-in-progress of making the buttons. Each foam button was cast over a 1/9<sup>th</sup> size steam table pan. The outer surface of the buttons were carved then the <a href="http://www.sculpt.com/catalog_98/powertools/hot_wire.htm#foamcoat" target="_blank" rel="noopener noreferrer">Foam Coat</a> product was mixed with sand to create a hard textured surface. The foam could then be slid back over the steel pan to create a durable mount for each button.</p>
+ [<a href="/mummys-curse-puzzle-door-of-doom/">See image gallery at localhost</a>] 
+<p>Each button was supported by a small pneumatic cylinder. This was done both to provide a pushing mechanism to reset the buttons and to provide some resistance as the buttons are manually pushed in. The air flow out of the cylinders was controlled so that it took some effort to press against a button. This added to the spooky &#8220;should I be doing this?&#8221; aspect of the gag. It also provided feedback to the control circuit so the sound of scraping stone could be played while the button was in motion.</p>
+<p>Once the button was fully seated, a limit switch triggered the sound of a large stone coming to rest with a thud. The control system waited for all buttons to be set, then either played the sound of a door unlocking or the sound of rattlesnakes (it should be noted that we decided not to use real snakes). The buttons were then pushed back out by the air cylinders.</p>
+ [<a href="/mummys-curse-puzzle-door-of-doom/">See image gallery at localhost</a>] 
+<p>Since the Foam Coat seemed to be holding up, we decided to fabricate the entire door facade with foam. It had a wooden base that allowed the foam to standoff from the actual door far enough to give space for the button mechanism and to clear the door handle which was completely covered. Indeed, the only way to enter the house was for the door to be unlatched from the inside.</p>
+ [<a href="/mummys-curse-puzzle-door-of-doom/">See image gallery at localhost</a>] 
+<p>We had a bunch of ideas about the reward/penalty nature of the system. Given our time constraints, we didn&#8217;t really get much more done than the sound effects. Remember when this was all about reusing props from past years? We had one more goal and that was to make sentinel snakes hiss with waving tongues. It ended up be a subtle detail that was widely overlooked. On Halloween we barely had time to get the mummies out of the basement.</p>
+ [<a href="/mummys-curse-puzzle-door-of-doom/">See image gallery at localhost</a>] 
+<p>At 8:04 pm, our neighbor sent a text message: &#8220;You&#8217;ve created a monster!&#8221;</p>
+<p>At its peak, there were about 100 kids and parents in the street. We had a line of willing participants jammed on the stairs. The wait was exacerbated by our having been merciless. No one got candy unless the the correct combination was set. When the door opened, kids in the front got served, then the door closed to the protests of the screaming children in line behind them.</p>
+ [<a href="/mummys-curse-puzzle-door-of-doom/">See image gallery at localhost</a>] 
+<p>Forcing people to solve the puzzle was the best thing we could have done. There would have been no fun in gaining reward without accomplishment. Little kids got a thrill out of finding the solution. Older kids appreciated being able to manipulate what would otherwise have been static decoration. Only the parents of toddlers had misgivings. Adults don&#8217;t like to be put on the spot.</p>
+<p>We learned a lot about human behavior, but some things remain a mystery. Most kids and parents patiently waited their turn. After all, it took only a few seconds to try a combination and there were plenty of people to help. But some people &#8211; parents and kids &#8211; walked past, stating they didn&#8217;t have time.</p>
+<p>In conclusion, 207 kids received candy. Maybe 20 were denied. We tried to keep count, but at times things were out of control. The only down side to the whole event was that we had to be constantly vigilant with the opening of the door. Next year, creating a automated candy dispersal system will be a goal.</p>
+<p>[tube]5QLVUOjHMkw[/tube]</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

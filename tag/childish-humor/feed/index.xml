@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>childish humor &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/childish-humor/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Wed, 04 Nov 2020 16:29:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2020: Le Petit Chien Qui Fait Caca</title>
+		<link>/halloween-2020-le-petit-chien-qui-fait-caca/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2020 20:59:43 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Audio FX Mini]]></category>
+		<category><![CDATA[childish humor]]></category>
+		<category><![CDATA[farting]]></category>
+		<category><![CDATA[LG G8]]></category>
+		<category><![CDATA[PIC-IO]]></category>
+		<category><![CDATA[retroreflective sensors]]></category>
+		<category><![CDATA[skeleton]]></category>
+		<category><![CDATA[wiener dog]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2260</guid>
+
+					<description><![CDATA[Writing the title in French is a poor attempt at classing-up this year&#8217;s Halloween theme. You will quickly see past that because this year we leaned in hard on childish humor. There&#8217;s no covering it up. 2020 being what it is, it seemed problematic to do something scary. Not that a good scare would be [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p id="tw-target-text">Writing the title in French is a poor attempt at classing-up this year&#8217;s Halloween theme. You will quickly see past that because this year we leaned in hard on childish humor. There&#8217;s no covering it up.</p>
+
+
+
+<p>2020 being what it is, it seemed problematic to do something scary. Not that a good scare would be inappropriate. It seemed inappropriate to do the expected or the usual. In a year when nothing is usual, it felt like a little levity was needed. To that point, we give you <em>The Little Pooping Dog</em>.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Pooping Dog Halloween 2020" width="620" height="349" src="https://www.youtube.com/embed/XZ2iEV0dZpY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>We had already started building our intended theme: A highly interactive multi-media display with several tactile components. Then it sank-in that anything involving touching wasn&#8217;t going to fly. Moreover, Halloween itself was in question. Putting more time and money into a project that would encourage people to group together seemed misguided. Then we saw the candy chute.</p>
+
+
+
+<p>Some genius came up with the idea of simply sliding the candy down to kids through a pipe. Not only is sliding the candy more civilized than chucking the candy at them or using a slingshot, the pipe itself can be decorated to make the method of transport more festive! But <em>how </em>to decorate?</p>
+
+
+
+<p>At some point we were talking about just putting out a talking skeleton from <a href="http://dougandruth.com/blog/halloween-2017-pirates-part-deux/" data-type="post" data-id="2227">our last use of a talking skeleton</a> and calling it a day. Never mind that it&#8217;s a pirate skeleton. We are way past helping people make sense of things. But what if the skeleton pirate had a skeleton dog with him?</p>
+
+
+
+<p>Why this made sense at the time no longer matters. The fact that a skeleton dog <a href="https://amazon.com/gp/product/B07W834BTZ" data-type="URL" data-id="https://amazon.com/gp/product/B07W834BTZ">could easily be acquired</a> and that the dog was able to straddle the pipe such that the dog appeared to be crapping out candy, appeared to us like comedy gold.</p>
+
+
+
+<p>By the way, a wiener dog? It just doesn&#8217;t get any better and the suggestion for temperament from more conservative advisors was justifiably ignored.</p>
+
+
+
+<p>Let&#8217;s get down to brass tacks. If the pirate is going to talk, the dog needs to fart, right? The pirate had already been wired-up with an <a href="https://www.adafruit.com/product/2342" data-type="URL" data-id="https://www.adafruit.com/product/2342">Adafruit Audio FX</a> sound board. Luckily, the sound board could be programmed to take triggers from more than one input, so it could have one sensor for activating the pirate spiel and another sensor for detecting the passing (out) of candy.</p>
+
+
+
+<p>The light weight of the candy put into question the use of a physical limit switch. Since we were already using a retroreflective light sensor for the pirate, it seemed reasonable to use a <a href="https://amazon.com/gp/product/B073WQV3D9" data-type="URL" data-id="https://amazon.com/gp/product/B073WQV3D9">short-range light sensor</a> for the candy.</p>
+
+
+
+<p>By now you&#8217;re probably already seeing a problem. The sensor has a reset time of &lt;2.5 ms. The Audio FX board requires a 200 ms pulse to activate playback. If the candy is moving at 2 m/s, a typical &#8220;fun size&#8221; candy bar is going to pass over the detector for only 20 ms. What we need is a pulse stretcher.</p>
+
+
+
+<p>Fortunately, we had an old <a href="https://www.olimex.com/Products/PIC/Development/PIC-IO/" data-type="URL" data-id="https://www.olimex.com/Products/PIC/Development/PIC-IO/">Olimex PIC-IO board</a> laying around that could be programmed to turn 20 ms pulses into 200 ms; thus, ensuring that each candy bar would trigger the audio. Sure, we might have gotten away with using a capacitor and a couple of diodes, but we are software people by trade and using the microcontroller made absolute sure the dog would fart.</p>
+
+
+
+<p>Over the course of the night we got 140 kids &#8211; about 100 short of a typical night. Still, it was great to see that many people out in the fresh air. The danger is real, but our neighbors were committed to find safe ways to trick-or-treat. For the parents and kids that ventured out, we hope that the laugh was worth as least as much as the candy.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Pooping Dog Halloween (day view)" width="620" height="349" src="https://www.youtube.com/embed/Psxv5bmUDsk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

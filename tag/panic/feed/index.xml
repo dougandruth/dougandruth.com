@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>panic &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/panic/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sun, 19 Apr 2020 00:59:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2018: Tibetan Yeti</title>
+		<link>/halloween-2018-tibetan-yeti/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2018 00:49:51 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[panic]]></category>
+		<category><![CDATA[pneumatic]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2229</guid>
+
+					<description><![CDATA[The plan was to recreate a Disney World attraction. Not just put on costumes and play It&#8217;s a Small World over and over, but create a fully immersive, multimedia walk-through with interactive video projection and animated props. It was to be the greatest Halloween decorating effort to ever exist. Then a computer interface broke and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The plan was to recreate a Disney World attraction. Not just put on costumes and play <em>It&#8217;s a Small World</em> over and over, but create a fully immersive, multimedia walk-through with interactive video projection and animated props. It was to be the greatest Halloween decorating effort to ever exist. Then a computer interface broke and none of it happened.</p>
+
+
+
+<p>The plan was conceived of while on vacation several years ago.  There is a spot on Expedition Everest at Disney&#8217;s Animal Kingdom where the roller coaster stops and an image of a yeti is shown tearing up the track. We recorded a video of the ride and noticed that the yeti image came through pretty well. It was then that we had the thought that if you had the right seat on the train and had a camera set-up with the right lens, one might be able to acquire a copy of the yeti projection.</p>
+
+
+
+<p>Fast forward to this year. Camera in hand, we ride through a few times and get the video in question:</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Expedition Everest Ride Through" width="620" height="349" src="https://www.youtube.com/embed/uhquejdj3_o?start=61&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Having the video was only a small part of the plan. As in the ride, the video is only a distraction to misdirect the viewer from seeing the big scary surprise moment. For that we would need a seven-foot tall animated yeti.</p>
+
+
+
+<p>For the body of the yeti, we cheated and bought a costume. In retrospect, it might have been a better plan to hire some kid to wear the costume and simply jump out of the bushes periodically, but in true Disney style we built a frame to support the costume with pneumatic arm lifts and animated eyes. </p>
+
+
+
+<p>The animated eyes gave the yeti life. They would look around and blink just like a real yeti. The eye animation was executed from a Raspberry Pi single board computer separate from the rest of the system, so they would work even if everything else failed.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
+<iframe title="Yeti Halloween 2018" width="620" height="465" src="https://www.youtube.com/embed/GGGiwr6JtR8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>The rest was lighting, music and staging. With a tent in the yard, Tibetan music playing and fluttering prayer flags, you were supposed to be transported to a hiking camp on the way to climb Everest. However, with all the lighting, video and the yeti movement under computer control, everything was left dark when the computer died.</p>
+
+
+
+<p>Ultimately, the plan was probably flawed from the start. We overestimated how many families would have visited Disney World. It seemed like not that many people got the references to Tibet. Presence of the tent just confused people. Most concluded that the theme was &#8220;winter camping.&#8221; Hard to argue with that.</p>
+
+
+
+ [<a href="/halloween-2018-tibetan-yeti/">See image gallery at localhost</a>] 
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gigantic Floating Eyeballs, Part 1</title>
+		<link>/gigantic-floating-eyeballs-part-1/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sat, 10 Oct 2009 22:34:28 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[acrylic hemispheres]]></category>
+		<category><![CDATA[Maine]]></category>
+		<category><![CDATA[panic]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=331</guid>
+
+					<description><![CDATA[I am faced with a big pile of stuff: Anyone who has tried to build gigantic floating eyeballs before will look at this picture and point out that there are no eyeballs shown. A true and unfortunate statement. As in past years, I start off in a state of panic. The manufacturer of the 24 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I am faced with a big pile of stuff:</p>
+<p> [<a href="/gigantic-floating-eyeballs-part-1/">See image gallery at localhost</a>] </p>
+<p>Anyone who has tried to build gigantic floating eyeballs before will look at this picture and point out that there are no eyeballs shown. A true and unfortunate statement.</p>
+<p>As in past years, I start off in a state of panic. The manufacturer of the 24 inch acrylic hemispheres had a layoff and my order is delayed. I know of another source, but I feel bad for the poor people in Maine who make the formed acrylic. If <em>I</em> don&#8217;t buy acrylic domes from them, who will? The economy of Maine depends on me. I&#8217;ll give them until Monday.</p>
+<p>The good news is that there are enough parts to start building the lift mechanism (the floating aspect). Ruth is working on the video of the eyes that will be rear-projected through the two acrylic screens (the gigantic part).</p>
+<p>So there you have it: three pneumatic cylinders will lift a video projector and two screens that will show the image of eyeballs. It&#8217;s a simple, foolproof idea that will assuredly be done in 21 days.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

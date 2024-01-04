@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Maine &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/maine/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sat, 10 Oct 2009 22:34:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Gigantic Floating Eyeballs, Part 1</title>
+		<link>/gigantic-floating-eyeballs-part-1/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sat, 10 Oct 2009 22:34:28 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[acrylic hemispheres]]></category>
+		<category><![CDATA[Maine]]></category>
+		<category><![CDATA[panic]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=331</guid>
+
+					<description><![CDATA[I am faced with a big pile of stuff: Anyone who has tried to build gigantic floating eyeballs before will look at this picture and point out that there are no eyeballs shown. A true and unfortunate statement. As in past years, I start off in a state of panic. The manufacturer of the 24 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I am faced with a big pile of stuff:</p>
+ [<a href="/gigantic-floating-eyeballs-part-1/">See image gallery at localhost</a>] 
+<p>Anyone who has tried to build gigantic floating eyeballs before will look at this picture and point out that there are no eyeballs shown. A true and unfortunate statement.</p>
+<p>As in past years, I start off in a state of panic. The manufacturer of the 24 inch acrylic hemispheres had a layoff and my order is delayed. I know of another source, but I feel bad for the poor people in Maine who make the formed acrylic. If <em>I</em> don&#8217;t buy acrylic domes from them, who will? The economy of Maine depends on me. I&#8217;ll give them until Monday.</p>
+<p>The good news is that there are enough parts to start building the lift mechanism (the floating aspect). Ruth is working on the video of the eyes that will be rear-projected through the two acrylic screens (the gigantic part).</p>
+<p>So there you have it: three pneumatic cylinders will lift a video projector and two screens that will show the image of eyeballs. It&#8217;s a simple, foolproof idea that will assuredly be done in 21 days.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

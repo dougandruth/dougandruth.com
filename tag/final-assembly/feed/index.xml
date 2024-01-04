@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>final assembly &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/final-assembly/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Wed, 04 Nov 2009 16:47:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Gigantic Floating Eyeballs, Part 4</title>
+		<link>/gigantic-floating-eyeballs-part-4/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sat, 31 Oct 2009 21:35:22 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[final assembly]]></category>
+		<category><![CDATA[going pornographic]]></category>
+		<category><![CDATA[lift mechanism]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=360</guid>
+
+					<description><![CDATA[Ruth was the first to suggest that the video screens looked like breasts. I didn&#8217;t see it, which is shocking, but I was focused on the end result and always had seen the screens with the image of an eye even when the projector is off. Now it is obvious: round and firm, yet supple [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Ruth was the first to suggest that the video screens looked like breasts. I didn&#8217;t see it, which is shocking, but I was focused on the end result and always had seen the screens with the image of an eye even when the projector is off. Now it is obvious: round and firm, yet supple with perfectly centered&#8230;</p>
+<p>Enough of that. But the first thing my neighbor said when he saw them was &#8220;Going pornographic this year?&#8221; Now the pressure is really on. Even if I can get this thing to work, there is a chance that I will mistakenly crossover from scary to erotic.</p>
+<p>One more thing to do: design and build the motion control system. I left this to the last minute since I work with software every day. The plan was to create a pseudo-random set of movements for the two pneumatic cylinders. Now I am out of time.</p>
+<p>I was going to scrap the whole motion thing, but then it struck me that I don&#8217;t need software at all. Each input to the cylinders has their own speed control. If I just add a simple on/off timer, the cylinders can be set to move in and out at slightly different speeds, thus creating three dimensional motion. It looks like this:</p>
+ [<a href="/gigantic-floating-eyeballs-part-4/">See image gallery at localhost</a>] 
+<p>I know&#8230; messy. But try to remember we are in panic mode. Time to put this thing up on the roof.</p>
+<h2 style="text-align: center;">How to Assemble Your Gigantic Floating Eyeball Kit</h2>
+<h3 style="text-align: left;">Step 1: Place base (with lift mechanism) in desired location.</h3>
+ [<a href="/gigantic-floating-eyeballs-part-4/">See image gallery at localhost</a>] 
+<h3>Step 2: Attach center bar (with mounted projector) to base.</h3>
+ [<a href="/gigantic-floating-eyeballs-part-4/">See image gallery at localhost</a>] 
+<h3>Step 3: Attach video screen assembly to the front of bar.</h3>
+ [<a href="/gigantic-floating-eyeballs-part-4/">See image gallery at localhost</a>] 
+<h3>Step 4: Attach mirror assembly to the rear of bar.</h3>
+ [<a href="/gigantic-floating-eyeballs-part-4/">See image gallery at localhost</a>] 
+<h3>Step 5: Enjoy!</h3>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

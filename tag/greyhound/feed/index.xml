@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Greyhound &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/greyhound/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Mon, 31 Mar 2014 16:51:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Beringer Bowl 2008</title>
+		<link>/beringer-bowl-2008/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2008 19:04:53 +0000</pubDate>
+				<category><![CDATA[Sailing]]></category>
+		<category><![CDATA[Beringer Bowl]]></category>
+		<category><![CDATA[Greyhound]]></category>
+		<category><![CDATA[Marblehead]]></category>
+		<category><![CDATA[Provincetown]]></category>
+		<category><![CDATA[whales]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=59</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[ [<a href="/beringer-bowl-2008/">See image gallery at localhost</a>] ]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

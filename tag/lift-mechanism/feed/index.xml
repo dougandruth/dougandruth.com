@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lift mechanism &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/lift-mechanism/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Tue, 15 Nov 2022 01:14:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2022: Expedition Everest</title>
+		<link>/halloween-2022-expedition-everest/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Tue, 15 Nov 2022 01:14:40 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Canon R6]]></category>
+		<category><![CDATA[DaVinci Resolve]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[lift mechanism]]></category>
+		<category><![CDATA[pneumatic]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<category><![CDATA[VenueMagic]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2321</guid>
+
+					<description><![CDATA[Scariest. Halloween. Ever. Needless to say, we were really pleased with this. And a bit surprised. It&#8217;s difficult to calculate the fear factor on any of our Halloween displays. Fright is often reliant on the element of surprise. Since in 2018 we tried to build a structure to conceal props from the street &#8211; and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Scariest. Halloween. Ever. Needless to say, we were really pleased with this. And a bit surprised.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Halloween 2022: Expedition Everest" width="620" height="349" src="https://www.youtube.com/embed/FWL9WhECFKA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>It&#8217;s difficult to calculate the fear factor on any of our Halloween displays. Fright is often reliant on the element of surprise. Since <a href="http://dougandruth.com/blog/halloween-2018-tibetan-yeti/" data-type="post" data-id="2229">in 2018 we tried to build a structure</a> to conceal props from the street &#8211; and failed, we have kind of given-up on building large structures or total concealment. Also we don&#8217;t generally get to try the whole thing until it is Halloween night.</p>
+
+
+
+<p>Since our basement is full, we are in a mode of trying to re-use past displays. Enough time had past that we thought it was worth another go at the Yeti. We had the props and media needed to do most of it. We developed a lot of new technology and felt we could make a large animatronic figure work reliably. All we needed was a way to make the yeti <em>pop</em>.</p>
+
+
+
+<p>One barrier to working with props next to our porch is that the stairs set the doorway about four feet above ground level. To get something scary to be in-your-face, we would need to raise the thing up on a platform or hang it from some kind of scaffold. Hanging the yeti had some appeal because the motion of the yeti could be tied to the vertical movement if we raised and lowered it.</p>
+
+
+
+<p>Fast forward two months to our having constructed a 12-foot tall truss, which notably does not fit in our basement. The truss has a 20-inch pneumatic cylinder at the top to drop the yeti down by its arm. His foot is mounted statically on the truss so the vertical drop forces his body to swing-out towards the unsuspecting kids. We did not think this would scare anyone.</p>
+
+
+
+<p>Part of the reason we though no one would be scared is because we have hung props by the porch before. It doesn&#8217;t matter what kind of lighting we throw on it or what shocking sound we have. Kids are are unphased by anything short of a trapdoor swallowing them up into a pit of eternal misery. The other reason is we didn&#8217;t have a good way to conceal the yeti. No matter what we did, you could see the yeti from the street. We were resigned to providing lackluster fear.</p>
+
+
+
+<p>After setting up most of the props, we cut down a 12-foot tall white pine in the backyard and put it in a Christmas tree stand. Placed in front of the yeti, the tree was a modest attempt at concealment. At the very least, it looked outdoorsy. Like the way they have trees &#8211; in Tibet.</p>
+
+
+
+<p>The fact that many people failed to see the yeti is not wholly credited to the tree. There were a couple other factors that worked as a distraction: The video on the door worked as a red herring. There seemed to be a &#8220;if we make it to the top step, we&#8217;re safe&#8221; attitude. This worked in part, because we ran the video and the animatronic on two separate threads in the show controller by using light beam triggers at the bottom and just past the top of the stairs. This meant the yeti would not be triggered until you fully committed to walking toward the door. Also, the speaker placement for the video soundtrack was cheated to the left which seemed to make people look away from the yeti on the right? Maybe? Regardless, there was no way this was going to scare anyone.</p>
+
+
+
+<p>We knew we were successful/in-trouble when the first child came up the stairs, saw the yeti, then broke into tears. The parents reaction to this was incredibly gracious. In fact, parents <em>overwhelmingly </em>enjoyed this year&#8217;s display. To the detriment of their children, parental guardians willingly pushed their terrified children up the stairs to meet their fate. When the kids refused, the parents came up. We had more parents take in the experience for themselves than in any other year.</p>
+
+
+
+<p>This is not to suggest that kids didn&#8217;t like it. There are kids that love to be challenged and we were told repeatedly that we could do this theme <em>every </em>year. This might be a rebuke of our past efforts, but we created an inferred challenge that now must be met on an annual basis.</p>
+
+
+
+<p>218 kids got candy this year. Some were handed to parents or siblings. Some kids ran away too fast.</p>
+
+
+
+<p>Halloween is not just about candy.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gigantic Floating Eyeballs, Part 4</title>
+		<link>/gigantic-floating-eyeballs-part-4/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sat, 31 Oct 2009 21:35:22 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[final assembly]]></category>
+		<category><![CDATA[going pornographic]]></category>
+		<category><![CDATA[lift mechanism]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=360</guid>
+
+					<description><![CDATA[Ruth was the first to suggest that the video screens looked like breasts. I didn&#8217;t see it, which is shocking, but I was focused on the end result and always had seen the screens with the image of an eye even when the projector is off. Now it is obvious: round and firm, yet supple [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Ruth was the first to suggest that the video screens looked like breasts. I didn&#8217;t see it, which is shocking, but I was focused on the end result and always had seen the screens with the image of an eye even when the projector is off. Now it is obvious: round and firm, yet supple with perfectly centered&#8230;</p>
+<p>Enough of that. But the first thing my neighbor said when he saw them was &#8220;Going pornographic this year?&#8221; Now the pressure is really on. Even if I can get this thing to work, there is a chance that I will mistakenly crossover from scary to erotic.</p>
+<p>One more thing to do: design and build the motion control system. I left this to the last minute since I work with software every day. The plan was to create a pseudo-random set of movements for the two pneumatic cylinders. Now I am out of time.</p>
+<p>I was going to scrap the whole motion thing, but then it struck me that I don&#8217;t need software at all. Each input to the cylinders has their own speed control. If I just add a simple on/off timer, the cylinders can be set to move in and out at slightly different speeds, thus creating three dimensional motion. It looks like this:</p>
+<p> [<a href="/gigantic-floating-eyeballs-part-4/">See image gallery at localhost</a>] </p>
+<p>I know&#8230; messy. But try to remember we are in panic mode. Time to put this thing up on the roof.</p>
+<h2 style="text-align: center;">How to Assemble Your Gigantic Floating Eyeball Kit</h2>
+<h3 style="text-align: left;">Step 1: Place base (with lift mechanism) in desired location.</h3>
+<p> [<a href="/gigantic-floating-eyeballs-part-4/">See image gallery at localhost</a>] </p>
+<h3>Step 2: Attach center bar (with mounted projector) to base.</h3>
+<p> [<a href="/gigantic-floating-eyeballs-part-4/">See image gallery at localhost</a>] </p>
+<h3>Step 3: Attach video screen assembly to the front of bar.</h3>
+<p> [<a href="/gigantic-floating-eyeballs-part-4/">See image gallery at localhost</a>] </p>
+<h3>Step 4: Attach mirror assembly to the rear of bar.</h3>
+<p> [<a href="/gigantic-floating-eyeballs-part-4/">See image gallery at localhost</a>] </p>
+<h3>Step 5: Enjoy!</h3>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

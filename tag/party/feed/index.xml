@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>party &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/party/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Mon, 31 Mar 2014 16:59:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Cinderella Castle at Disney’s “Pirates and Princesses Party”</title>
+		<link>/cinderella-castle-at-disney%e2%80%99s-%e2%80%9cpirates-and-princesses-party%e2%80%9d/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Fri, 08 Aug 2008 19:07:41 +0000</pubDate>
+				<category><![CDATA[Vacation]]></category>
+		<category><![CDATA[Canon 10D]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[fireworks]]></category>
+		<category><![CDATA[party]]></category>
+		<category><![CDATA[pirates]]></category>
+		<category><![CDATA[princesses]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=61</guid>
+
+					<description><![CDATA[Shot without using a tripod, these pictures were taken at 1/20 second using a Canon IS lens.]]></description>
+										<content:encoded><![CDATA[ [<a href="/cinderella-castle-at-disney%e2%80%99s-%e2%80%9cpirates-and-princesses-party%e2%80%9d/">See image gallery at localhost</a>] <p>Shot without using a tripod, these pictures were taken at 1/20 second using a Canon IS lens.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

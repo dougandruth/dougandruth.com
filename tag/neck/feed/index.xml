@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>neck &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/neck/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Mon, 02 Mar 2009 19:46:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Talking Birds, Part 3</title>
+		<link>/talking-birds-part-3/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2008 01:49:58 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[backbone]]></category>
+		<category><![CDATA[birds]]></category>
+		<category><![CDATA[bomb making]]></category>
+		<category><![CDATA[mouth]]></category>
+		<category><![CDATA[neck]]></category>
+		<category><![CDATA[Post-It Notes]]></category>
+		<category><![CDATA[servos]]></category>
+		<category><![CDATA[wings]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=155</guid>
+
+					<description><![CDATA[There has been quite a bit of head scratching over the last two weeks. Somehow the design I scratched on a Post-It Note wasn&#8217;t exactly to scale. I was close, though. Damn close. I&#8217;ll continue to use the Post-It Note method. The plan was to mount the servos along the backbone such that there could [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>There has been quite a bit of head scratching over the last two weeks. Somehow the design I scratched on a Post-It Note wasn&#8217;t exactly to scale. I was close, though. Damn close. I&#8217;ll continue to use the Post-It Note method.</p>
+<p>The plan was to mount the servos along the backbone such that there could be levers that push the mouth, neck, and wings. Moving the mouth turned out easier than I thought. There was enough space in the head of the puppet place a servo:</p>
+ [<a href="/talking-birds-part-3/">See image gallery at localhost</a>] 
+<p>The neck and wings still presented a problem. The neck levers had to pass over the wings servo and shaft. In order to make the geometry work out, the servos had to be moved to the very rear of the puppet:</p>
+ [<a href="/talking-birds-part-3/">See image gallery at localhost</a>] 
+<p>Actually, they end up hanging out the ass of the bird:</p>
+ [<a href="/talking-birds-part-3/">See image gallery at localhost</a>] 
+<p>Unpleasant, I know.</p>
+<p>At this point I am in total disbelief that I got it this far. I hooked this thing up to my new <a href="http://home.att.net/~northlightsystems/DMX512toRCservo.htm" target="_blank">Northlight Systems</a> servo controller and the thing actually works! Sure, this is a simple machine and I pretty much knew that the pieces could move by pushing them with my fingers. Still, there is always that chance that the thing could somehow go nuts and destroy itself.</p>
+<p>I&#8217;m easily entertained by mechanical systems. The is an obvious byproduct of working in the software industry. I have issues with having spent my entire career never having made a product that <em>does</em> something. Maybe I wouldn&#8217;t think about it so much if I were an accountant or policeman. As an engineer I&#8217;m very much jealous of people who get to make things like cars or bombs. Maybe not bombs. Let&#8217;s consider it an extreme exemplar.</p>
+<p>Anyway, now that we have one working, all we need to do is copy it&#8230;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

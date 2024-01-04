@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Doug and Ruth.com</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Tue, 15 Nov 2022 01:14:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2022: Expedition Everest</title>
+		<link>/halloween-2022-expedition-everest/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Tue, 15 Nov 2022 01:14:40 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Canon R6]]></category>
+		<category><![CDATA[DaVinci Resolve]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[lift mechanism]]></category>
+		<category><![CDATA[pneumatic]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<category><![CDATA[VenueMagic]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2321</guid>
+
+					<description><![CDATA[Scariest. Halloween. Ever. Needless to say, we were really pleased with this. And a bit surprised. It&#8217;s difficult to calculate the fear factor on any of our Halloween displays. Fright is often reliant on the element of surprise. Since in 2018 we tried to build a structure to conceal props from the street &#8211; and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Scariest. Halloween. Ever. Needless to say, we were really pleased with this. And a bit surprised.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Halloween 2022: Expedition Everest" width="620" height="349" src="https://www.youtube.com/embed/FWL9WhECFKA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>It&#8217;s difficult to calculate the fear factor on any of our Halloween displays. Fright is often reliant on the element of surprise. Since <a href="http://dougandruth.com/blog/halloween-2018-tibetan-yeti/" data-type="post" data-id="2229">in 2018 we tried to build a structure</a> to conceal props from the street &#8211; and failed, we have kind of given-up on building large structures or total concealment. Also we don&#8217;t generally get to try the whole thing until it is Halloween night.</p>
+
+
+
+<p>Since our basement is full, we are in a mode of trying to re-use past displays. Enough time had past that we thought it was worth another go at the Yeti. We had the props and media needed to do most of it. We developed a lot of new technology and felt we could make a large animatronic figure work reliably. All we needed was a way to make the yeti <em>pop</em>.</p>
+
+
+
+<p>One barrier to working with props next to our porch is that the stairs set the doorway about four feet above ground level. To get something scary to be in-your-face, we would need to raise the thing up on a platform or hang it from some kind of scaffold. Hanging the yeti had some appeal because the motion of the yeti could be tied to the vertical movement if we raised and lowered it.</p>
+
+
+
+<p>Fast forward two months to our having constructed a 12-foot tall truss, which notably does not fit in our basement. The truss has a 20-inch pneumatic cylinder at the top to drop the yeti down by its arm. His foot is mounted statically on the truss so the vertical drop forces his body to swing-out towards the unsuspecting kids. We did not think this would scare anyone.</p>
+
+
+
+<p>Part of the reason we though no one would be scared is because we have hung props by the porch before. It doesn&#8217;t matter what kind of lighting we throw on it or what shocking sound we have. Kids are are unphased by anything short of a trapdoor swallowing them up into a pit of eternal misery. The other reason is we didn&#8217;t have a good way to conceal the yeti. No matter what we did, you could see the yeti from the street. We were resigned to providing lackluster fear.</p>
+
+
+
+<p>After setting up most of the props, we cut down a 12-foot tall white pine in the backyard and put it in a Christmas tree stand. Placed in front of the yeti, the tree was a modest attempt at concealment. At the very least, it looked outdoorsy. Like the way they have trees &#8211; in Tibet.</p>
+
+
+
+<p>The fact that many people failed to see the yeti is not wholly credited to the tree. There were a couple other factors that worked as a distraction: The video on the door worked as a red herring. There seemed to be a &#8220;if we make it to the top step, we&#8217;re safe&#8221; attitude. This worked in part, because we ran the video and the animatronic on two separate threads in the show controller by using light beam triggers at the bottom and just past the top of the stairs. This meant the yeti would not be triggered until you fully committed to walking toward the door. Also, the speaker placement for the video soundtrack was cheated to the left which seemed to make people look away from the yeti on the right? Maybe? Regardless, there was no way this was going to scare anyone.</p>
+
+
+
+<p>We knew we were successful/in-trouble when the first child came up the stairs, saw the yeti, then broke into tears. The parents reaction to this was incredibly gracious. In fact, parents <em>overwhelmingly </em>enjoyed this year&#8217;s display. To the detriment of their children, parental guardians willingly pushed their terrified children up the stairs to meet their fate. When the kids refused, the parents came up. We had more parents take in the experience for themselves than in any other year.</p>
+
+
+
+<p>This is not to suggest that kids didn&#8217;t like it. There are kids that love to be challenged and we were told repeatedly that we could do this theme <em>every </em>year. This might be a rebuke of our past efforts, but we created an inferred challenge that now must be met on an annual basis.</p>
+
+
+
+<p>218 kids got candy this year. Some were handed to parents or siblings. Some kids ran away too fast.</p>
+
+
+
+<p>Halloween is not just about candy.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Halloween 2021: Raiders of the Lost Ark</title>
+		<link>/halloween-2021-raiders-of-the-lost-ark/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 08 Nov 2021 02:16:14 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Canon R6]]></category>
+		<category><![CDATA[DaVinci Resolve]]></category>
+		<category><![CDATA[GoPro Hero 3+]]></category>
+		<category><![CDATA[LG G8]]></category>
+		<category><![CDATA[pneumatic]]></category>
+		<category><![CDATA[religious icons]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<category><![CDATA[Sprite]]></category>
+		<category><![CDATA[VenueMagic]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2282</guid>
+
+					<description><![CDATA[The opening to Raiders of the Lost Ark has to be one of the best sequences in the history of cinema. The fantastic low-tech booby traps. The John Williams score. The visceral feeling of danger with icky spider webs is completely immersive and &#8220;completely immersive&#8221; is always the goal for us. Spoiler: No, we did [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The opening to Raiders of the Lost Ark has to be one of the best sequences in the history of cinema. The fantastic low-tech booby traps. The John Williams score. The visceral feeling of danger with icky spider webs is completely immersive and &#8220;completely immersive&#8221; is always the goal for us.</p>
+
+
+
+<p>Spoiler: No, we did not roll a 30-ton ball down the stairs. But we thought about it.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Halloween 2021: Raiders of the Lost Ark" width="620" height="349" src="https://www.youtube.com/embed/_eRnb6eF0PY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>One of the first hints we had on achieving this was in finding a still-frame of the idol room which we edited the pedestal out of. This we projected on the house so that we didn&#8217;t need to build the whole room. Falling rocks were animated over the image to simulate the destruction of the temple, triggered on a <a rel="noreferrer noopener" href="https://www.frightprops.com/video-visual-effects/digital-video-players/sprite-seamless-looping-hd-triggerable-video-player.html" target="_blank">Sprite </a>video player.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="http://dougandruth.com/blog/wp-content/uploads/2022/10/back-wall-1024x576.jpg" alt="Still frame from Raiders of the Lost Ark" class="wp-image-2283" srcset="/wp-content/uploads/2022/10/back-wall-1024x576.jpg 1024w, /wp-content/uploads/2022/10/back-wall-300x169.jpg 300w, /wp-content/uploads/2022/10/back-wall-768x432.jpg 768w, /wp-content/uploads/2022/10/back-wall-620x349.jpg 620w, /wp-content/uploads/2022/10/back-wall.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>The pedestal was fabricated out of wood and carved foam with foam hardener. In the center was a pneumatic-driven lift mechanism with a Chachapoyan Fertility Idol that we bought on Etsy. Turns out you can buy anything on Etsy.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" src="http://dougandruth.com/blog/wp-content/uploads/2022/10/20211030_131248_HDR-1-768x1024.jpg" alt="" class="wp-image-2288" srcset="/wp-content/uploads/2022/10/20211030_131248_HDR-1-768x1024.jpg 768w, /wp-content/uploads/2022/10/20211030_131248_HDR-1-225x300.jpg 225w, /wp-content/uploads/2022/10/20211030_131248_HDR-1-1151x1536.jpg 1151w, /wp-content/uploads/2022/10/20211030_131248_HDR-1-1535x2048.jpg 1535w, /wp-content/uploads/2022/10/20211030_131248_HDR-1-620x827.jpg 620w, /wp-content/uploads/2022/10/20211030_131248_HDR-1-scaled.jpg 1919w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<p>As an almost last minute addition, we introduced an ankle blaster on the stairs to simulate the blow dart scene. The compressed air blast worked really good as a scare because it was combined with a stereo blowgun sound effect that panned across the stairs. As in past years, the whole show was run on <a rel="noreferrer noopener" href="https://www.venuemagic.com/" target="_blank">VenueMagic </a>software.</p>
+
+
+
+<p>In all, we had just over 200 kids. We&#8217;ll call it a &#8220;rebuilding&#8221; year. It was definitely the best prepared we have ever been with the setup mostly done at 3pm. Having friends Suchi and Sarath over to hand out candy also made the evening the easiest and most enjoyable we have ever had.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Halloween 2020: Le Petit Chien Qui Fait Caca</title>
+		<link>/halloween-2020-le-petit-chien-qui-fait-caca/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2020 20:59:43 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Audio FX Mini]]></category>
+		<category><![CDATA[childish humor]]></category>
+		<category><![CDATA[farting]]></category>
+		<category><![CDATA[LG G8]]></category>
+		<category><![CDATA[PIC-IO]]></category>
+		<category><![CDATA[retroreflective sensors]]></category>
+		<category><![CDATA[skeleton]]></category>
+		<category><![CDATA[wiener dog]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2260</guid>
+
+					<description><![CDATA[Writing the title in French is a poor attempt at classing-up this year&#8217;s Halloween theme. You will quickly see past that because this year we leaned in hard on childish humor. There&#8217;s no covering it up. 2020 being what it is, it seemed problematic to do something scary. Not that a good scare would be [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p id="tw-target-text">Writing the title in French is a poor attempt at classing-up this year&#8217;s Halloween theme. You will quickly see past that because this year we leaned in hard on childish humor. There&#8217;s no covering it up.</p>
+
+
+
+<p>2020 being what it is, it seemed problematic to do something scary. Not that a good scare would be inappropriate. It seemed inappropriate to do the expected or the usual. In a year when nothing is usual, it felt like a little levity was needed. To that point, we give you <em>The Little Pooping Dog</em>.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Pooping Dog Halloween 2020" width="620" height="349" src="https://www.youtube.com/embed/XZ2iEV0dZpY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>We had already started building our intended theme: A highly interactive multi-media display with several tactile components. Then it sank-in that anything involving touching wasn&#8217;t going to fly. Moreover, Halloween itself was in question. Putting more time and money into a project that would encourage people to group together seemed misguided. Then we saw the candy chute.</p>
+
+
+
+<p>Some genius came up with the idea of simply sliding the candy down to kids through a pipe. Not only is sliding the candy more civilized than chucking the candy at them or using a slingshot, the pipe itself can be decorated to make the method of transport more festive! But <em>how </em>to decorate?</p>
+
+
+
+<p>At some point we were talking about just putting out a talking skeleton from <a href="http://dougandruth.com/blog/halloween-2017-pirates-part-deux/" data-type="post" data-id="2227">our last use of a talking skeleton</a> and calling it a day. Never mind that it&#8217;s a pirate skeleton. We are way past helping people make sense of things. But what if the skeleton pirate had a skeleton dog with him?</p>
+
+
+
+<p>Why this made sense at the time no longer matters. The fact that a skeleton dog <a href="https://amazon.com/gp/product/B07W834BTZ" data-type="URL" data-id="https://amazon.com/gp/product/B07W834BTZ">could easily be acquired</a> and that the dog was able to straddle the pipe such that the dog appeared to be crapping out candy, appeared to us like comedy gold.</p>
+
+
+
+<p>By the way, a wiener dog? It just doesn&#8217;t get any better and the suggestion for temperament from more conservative advisors was justifiably ignored.</p>
+
+
+
+<p>Let&#8217;s get down to brass tacks. If the pirate is going to talk, the dog needs to fart, right? The pirate had already been wired-up with an <a href="https://www.adafruit.com/product/2342" data-type="URL" data-id="https://www.adafruit.com/product/2342">Adafruit Audio FX</a> sound board. Luckily, the sound board could be programmed to take triggers from more than one input, so it could have one sensor for activating the pirate spiel and another sensor for detecting the passing (out) of candy.</p>
+
+
+
+<p>The light weight of the candy put into question the use of a physical limit switch. Since we were already using a retroreflective light sensor for the pirate, it seemed reasonable to use a <a href="https://amazon.com/gp/product/B073WQV3D9" data-type="URL" data-id="https://amazon.com/gp/product/B073WQV3D9">short-range light sensor</a> for the candy.</p>
+
+
+
+<p>By now you&#8217;re probably already seeing a problem. The sensor has a reset time of &lt;2.5 ms. The Audio FX board requires a 200 ms pulse to activate playback. If the candy is moving at 2 m/s, a typical &#8220;fun size&#8221; candy bar is going to pass over the detector for only 20 ms. What we need is a pulse stretcher.</p>
+
+
+
+<p>Fortunately, we had an old <a href="https://www.olimex.com/Products/PIC/Development/PIC-IO/" data-type="URL" data-id="https://www.olimex.com/Products/PIC/Development/PIC-IO/">Olimex PIC-IO board</a> laying around that could be programmed to turn 20 ms pulses into 200 ms; thus, ensuring that each candy bar would trigger the audio. Sure, we might have gotten away with using a capacitor and a couple of diodes, but we are software people by trade and using the microcontroller made absolute sure the dog would fart.</p>
+
+
+
+<p>Over the course of the night we got 140 kids &#8211; about 100 short of a typical night. Still, it was great to see that many people out in the fresh air. The danger is real, but our neighbors were committed to find safe ways to trick-or-treat. For the parents and kids that ventured out, we hope that the laugh was worth as least as much as the candy.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Pooping Dog Halloween (day view)" width="620" height="349" src="https://www.youtube.com/embed/Psxv5bmUDsk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PVC pipe &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/pvc-pipe/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Thu, 29 Oct 2009 21:06:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Gigantic Floating Eyeballs, Part 3</title>
+		<link>/gigantic-floating-eyeballs-part-3/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2009 21:06:20 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[PVC pipe]]></category>
+		<category><![CDATA[self destruction]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=356</guid>
+
+					<description><![CDATA[My first mechanical Halloween project was made out of PVC pipe. PVC is strong and easy to assemble because it can be glued together and there are ready-made elbows available that make angles easy. There is a drawback to using pipe: It&#8217;s round. Inevitably you need to attach something flat to it. A flat surface [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>My first mechanical Halloween project was made out of PVC pipe. PVC is strong and easy to assemble because it can be glued together and there are ready-made elbows available that make angles easy.</p>
+<p>There is a drawback to using pipe: It&#8217;s round. Inevitably you need to attach something flat to it. A flat surface screwed to a curved surface will wobble and wobbling is bad.</p>
+<p>This brings us to the question, &#8220;How does one mount two large round surfaces to the end of a pole?&#8221; Well&#8230; like this:</p>
+ [<a href="/gigantic-floating-eyeballs-part-3/">See image gallery at localhost</a>] 
+<p>I wish I could tell you that this was the result of years of experience in mechanical design or, better yet, computer aided design (as a throwback to &#8217;90&#8217;s car commercials). The reality is that I started by attaching one piece of aluminum and it wobbled. So I attached another piece and it got stiffer. A dozen pieces later we have a nice rigid frame that can be attached to the end of a pole.</p>
+<p>So, we&#8217;re done, right? No.</p>
+<p>Remember the <a href="http://dougandruth.com/blog/?p=338" target="_self">aforementioned</a> mirror at the other end of the pole? The mirror assembly weighs about 15 lbs. The screens also weigh about 15 lbs. When you put one of each at the end of a 6 foot pole&#8230;?</p>
+<p>That&#8217;s right. The pole twists. Especially if the pole is made out of aluminum. When the mirror moves the screen does not move with it. I&#8217;m screwed.</p>
+<p>There are many solutions to this problem, most of which I have not the time or money to implement. What I do have is aircraft cable. The structure will either submit or destroy itself. Start the betting now.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

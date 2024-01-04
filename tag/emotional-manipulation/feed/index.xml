@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>emotional manipulation &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/emotional-manipulation/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Wed, 04 Nov 2020 16:21:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2017: Pirates Part Deux</title>
+		<link>/halloween-2017-pirates-part-deux/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2017 00:01:44 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Audio FX Mini]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[emotional manipulation]]></category>
+		<category><![CDATA[pirates]]></category>
+		<category><![CDATA[retroreflective sensors]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2227</guid>
+
+					<description><![CDATA[This Halloween was almost in danger of just being yet another talking skeleton. We were short on time, so building-out a new theme didn&#8217;t seem achievable. We purchased a couple more skeletons (you can never have enough skeletons) and built a couple new props including a treasure chest. The Jolly Roger and Pirates of the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>This Halloween was almost in danger of just being <a href="http://dougandruth.com/blog/halloween-2015-yet-another-talking-skeleton/">yet another talking skeleton.</a> We were short on time, so building-out a new theme didn&#8217;t seem achievable. We purchased a couple more skeletons (you can never have enough skeletons) and built a couple new props including a treasure chest. The Jolly Roger and Pirates of the Caribbean samples we had from <a href="http://dougandruth.com/blog/halloween-2006/">the last time we did pirates</a>. </p>
+
+
+
+<p>It&#8217;s difficult to beat a pirate theme. The story elements are universal. If we had put more effort in it we would not have gotten a better response. The goal is to set the mood with props and then hit all the emotional buttons with lighting and music. There&#8217;s no big scare which is good and bad. It&#8217;s good that people get the theme. It&#8217;s bad that there&#8217;s no gag to scare them. The gag is a challenge to achieve and not really something we have ever gotten right.</p>
+
+
+
+<p>The talking skeleton was run as a stand-alone prop with its own audio and control system based on an <a href="https://www.adafruit.com/product/2342">Adafruit Audio FX Mini</a> sound board triggered by a retro-reflective light sensor. The rest of the system ran on the <a href="https://www.venuemagic.com/">VenueMagic </a>show controller triggered by a light beam sensor. As usual, the audio system was pushing enough power to make you think there were real canons being fired.</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
+<iframe title="Pirate Halloween 2017" width="620" height="349" src="https://www.youtube.com/embed/qc6YSHmq94M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="http://dougandruth.com/blog/wp-content/gallery/halloween-2017/IMG_8785.JPG" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="http://dougandruth.com/blog/wp-content/gallery/halloween-2017/IMG_8798.JPG" alt=""/></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

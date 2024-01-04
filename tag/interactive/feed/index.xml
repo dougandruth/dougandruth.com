@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>interactive &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/interactive/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sat, 08 Oct 2022 14:18:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2015: Yet Another Talking Skeleton</title>
+		<link>/halloween-2015-yet-another-talking-skeleton/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2015 03:24:22 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[GoPro Hero 3+]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[scrim]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<category><![CDATA[skeleton]]></category>
+		<category><![CDATA[Sony Vegas]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2137</guid>
+
+					<description><![CDATA[Choosing a theme for Halloween is an annual challenge. Time constraints in recent years have tempted us into punting; at least to the extent that our theme becomes diluted into &#8220;do something scary.&#8221; Technology is often the catalyst. We started off decidedly low-tech with the purchase of a sharkstooth scrim remnant. We had enough material [&#8230;]]]></description>
+										<content:encoded><![CDATA[ [<a href="/halloween-2015-yet-another-talking-skeleton/">See image gallery at localhost</a>] 
+<p>Choosing a theme for Halloween is an annual challenge. Time constraints in recent years have tempted us into punting; at least to the extent that our theme becomes diluted into &#8220;do something scary.&#8221;</p>
+<p>Technology is often the catalyst. We started off decidedly low-tech with the purchase of a <a href="http://www.rosebrand.com/fabric-stage-curtains-backdrops/sharkstooth-scrim-fabrics.aspx">sharkstooth scrim</a> remnant. We had enough material to cover the doorway or a large prop, but using the scrim requires control over lighting near the house.</p>
+<p>Scrim can be made opaque by shining a light on it at an oblique angle. By changing the lighting, the scrim can be made transparent; thus, revealing the area behind. To get the lighting right, you pretty much need to start out with complete darkness. Streetlights near out house make that difficult.</p>
+<p>The solution (as if this were a problem requiring a solution) was to stretch the scrim vertically. We were then free to hide something scary above the heads of the unsuspecting trick-or-treaters. That scary thing would be a talking skeleton.</p>
+<p>We already owned a skeleton with a servo controlled jaw, but it is heavy and advancements in skeleton technology using space-age lightweight materials made the purchase of a new skeleton an imperative. This made hanging the skeleton easier. Hanging the scrim required building a steel frame around the porch. That took way too much time.</p>
+<p>The lighting could have been controlled in a number of kludgy, hacked-up ways, but it seemed like an investment was in order. Since we try to make the display as interactive as possible, we decided to buy <a href="https://www.venuemagic.com/">VenueMagic</a>, a software show controller. VenueMagic makes it very easy to add lighting and music cues that can be triggered by pressure mats and light beam sensors.</p>
+<p>The triggers were attached to the 90&#8217;s era Maris hardware show controller we got off eBay a few years ago. The Maris is a pain in the butt to program, but it is easy enough to make it send a MIDI message when a trigger is tripped. VenueMagic uses the MIDI message to cue lighting on the stairs, sound effects and ultimately, the skeleton gag.</p>
+<p>We also got additional amplification providing four 200 watt channels of audio. The dialog, music and sound effects were mixed into three channels. The dialog starts at the center channel then is spread to the side channels after a thunder and lightning cue. The thunder was set to &#8220;maximum impact&#8221; volume and that took out the small speakers in the yard. The speakers were replaced just before the witching hour.</p>
+<p>We still had one channel left. At the last second we decided to add a cat screech next to the stairs. The cat, which took less than an hour to setup, would become the big scare of the display.</p>
+<p>We had about 220 kids this year &#8211; a little less than last year. The display ended up being more fun than scary and the entire experience was less than a minute long. But we had fans &#8211; a pack of little girls who visited so many times that they ultimately tried to scare us. That made it worthwhile.</p>
+<p><iframe width="620" height="349" src="https://www.youtube.com/embed/PXV5iz021E8?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

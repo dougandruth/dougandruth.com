@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tiki torches &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/tiki-torches/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sat, 08 Oct 2022 14:17:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2016: The Headhunter&#8217;s Jungle Hut</title>
+		<link>/halloween-2016-the-headhunters-jungle-hut/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sun, 06 Nov 2016 00:07:43 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[piezo trigger]]></category>
+		<category><![CDATA[propane]]></category>
+		<category><![CDATA[samplers]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<category><![CDATA[shrunken head]]></category>
+		<category><![CDATA[skeleton]]></category>
+		<category><![CDATA[Sony Vegas]]></category>
+		<category><![CDATA[tiki]]></category>
+		<category><![CDATA[tiki torches]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2193</guid>
+
+					<description><![CDATA[We have been wanting to improve on our 2007 Tiki theme. That&#160; year we made a giant African mask. The mask spoke and rolled its eyes and we planned on using those features to create a circus barker-like character in a somewhat elaborate interactive display. The show didn&#8217;t make it as far as we wanted. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>We have been wanting to improve on our <a href="http://dougandruth.com/blog/halloween-2007/">2007 Tiki theme</a>. That&nbsp; year we made a giant African mask. The mask spoke and rolled its eyes and we planned on using those features to create a circus barker-like character in a somewhat elaborate interactive display.</p>
+<p>The show didn&#8217;t make it as far as we wanted. They never do, but this year we scrapped the interactive elements and the production became an exercise in set decoration. The porch was clad with reed fencing and jungle vines. Shrunken heads on bamboo pikes. Two Maori warrior shields. Or at least our interpretation of what a vaguely Polynesian warrior&#8217;s shield should look like.&nbsp;</p>
+<p style="text-align: left;"> [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] </p>
+<p>There is some debate as to how far <a href="http://tikiloungetalk.com/tiki-culture/">tiki</a> should stray from Polynesian culture. To be authentically tiki, the environment must be:</p>
+<ul>
+<li>Mysterious</li>
+<li>Exotic</li>
+<li>Richly detailed</li>
+</ul>
+<p>Our take on tiki is that in addition to the above it must be comfortable or romantic and include anything that might wash up on a tropical beach. Over all it must be a form of escapism. Start with a South Pacific island, imagine what floats in from South America, Japan, India and Africa. Then light a torch and pour a drink. That&#8217;s tiki.</p>
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+<p>Our incorporation of tiki into Halloween was only half intuitive. The dark and mysterious aspects are well suited, but the exotic parts not so much. We decided that defining the story to be about headhunters would make the theme more palatable to kids.</p>
+<p>For the music, we went straight to <a href="https://www.google.com/search?q=exotica+music&amp;ie=utf-8&amp;oe=utf-8">exotica</a>. Les Baxter, Martin Denney, <a href="http://www.leftaobuddha.com/">The Left Arm of Buddha</a>, and <a href="http://www.tikiyakiorchestra.com/">The Tikiyaki Orchestra</a>. Is this what a headhunter listens to? Doesn&#8217;t matter. Slower tempo songs added to the feeling of mystery and suspense. The genre speaks the language of adventure and &#8211; somewhat surprisingly &#8211; it is decipherable by people of any age.</p>
+<p>When adding detail, shadow is as important as light. With vines covering the doorway, the darkened space behind added as much to the suspense as the foreground elements. We tried to make the body of the house as dark as possible to put focus on the themed elements. The most detailed element being the jack-o-lantern pineapple tucked into the corner of the porch. It was the kind of Easter egg that makes tiki great.</p>
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+<p>We did make a couple contributions to technology. The first were musical warrior shields. Each shield make a sound when hit. This was a subtle feature that no one picked up on unless shown, but it was fun for little kids. Each shield had a piezo trigger connected to an electronic percussion controller. The controller triggered the &#8220;Tiki Threat&#8221; patch on an E-mu Proteus sound module. Good old 90&#8217;s music technology made even better for having an obviously named sound choice.</p>
+<p>The other new feature were the self-flaring tiki torches. There is nothing that a little propane can&#8217;t fix. Just add a solenoid valve, a regulator, and some copper tubing and you&#8217;re off to the races. They were connected to the VenueMagic show control system that gave all the lighting a soft, flame flicker. The occasional burst of flame kept people ready for the unexpected.</p>
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+<p>Out of the 258 kids to come up our stairs, about half correctly identified the theme as &#8220;tiki.&#8221; That&#8217;s impressive. Tiki is most often identified with adult diversions, but it creeps into pop culture everywhere. It wouldn&#8217;t be a surprise if children picked it up from a trip to Disney World or an old episode of Scooby Doo. Wherever they got it, the theme was much better received than we planned.</p>
+<p><iframe width="620" height="349" src="https://www.youtube.com/embed/jIzt1hxouFA?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Selecting a Hotel in Hawaii: A Study of Tiki Torches</title>
+		<link>/selecting-a-hotel-in-hawaii-a-study-of-tiki-torches/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2012 16:54:44 +0000</pubDate>
+				<category><![CDATA[Vacation]]></category>
+		<category><![CDATA[hedonism]]></category>
+		<category><![CDATA[hotels]]></category>
+		<category><![CDATA[tiki torches]]></category>
+		<category><![CDATA[valets]]></category>
+		<category><![CDATA[vegans]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=721</guid>
+
+					<description><![CDATA[Hotels We stayed in three hotels while vacationing on the Hawaiian Islands. We picked them by surfing the Internet. Nothing novel about that. All hotels have web sites &#8211; some very good &#8211; and they have very good descriptions of services and amenities. Personally, we are just as comfortable researching hotels with a computer as [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>Hotels</h2>
+<p>We stayed in three hotels while vacationing on the Hawaiian Islands. We picked them by surfing the Internet. Nothing novel about that. All hotels have web sites &#8211; some very good &#8211; and they have very good descriptions of services and amenities. Personally, we are just as comfortable researching hotels with a computer as we are using a travel agent. Maybe more comfortable.</p>
+<p>If hotels advertise with such accuracy, what more do you need?</p>
+<p>While we found that hotels are very good about disclosing their superlatives, they were less than forthcoming about their shortcomings. This is not shocking. No hotel is going to tell you the lush gardens exist only near the lobby or that the concierge recommends only vegan restaurants.</p>
+<p>This gets to an important point: What are Ruth and Doug looking for in a hotel? We like consistency and availability. Specifics are not important because we don&#8217;t know what we want until we want it. We&#8217;re on vacation. It&#8217;s all new, different, and intentionally hedonistic.</p>
+<p>Ideally, there would be a fresh Mai Tai within reach at all times. At the pool: Mai Tai. Waiting for the valet: Mai Tai. In the shower: Mai Tai.</p>
+<p>But that&#8217;s a fantasy. Here are some real questions that came up on our Hawaiian vacation:</p>
+<ul>
+<li>How long will it take me to get from the room to the pool?</li>
+<li>How long will it take for me to get/get to my car?</li>
+<li>Does my room bear any resemblance to the palace-like lobby?</li>
+<li>Is my walk to the pool as nice as the pool area itself?</li>
+<li>What percentage of the time will the concierge give me accurate information?</li>
+</ul>
+<p>Notice that there are no correct answers. All hotels are going to be somewhere on a scale that has a lot to do with how much you are paying. Aside from price, is there any way to measure these non-tangable characteristics?</p>
+<h2>Tiki Torches</h2>
+<p>Hawaii offers a unique attribute for all hotels better than mid-grade: Propane fired tiki torches. It was our observation that the use of tiki torches across all hotels we visited provided a method of normalizing our comparison. Regardless of how big a hotel is, how far from the beach it is, or if it is independent or chain owned, they all have tiki torches.</p>
+<p>Tiki torches are useful as a method of comparison because there is a uniform cost associated with operating and maintaining them. Also, there are variations in their placement (density and distribution) that allow for an apples-to-apples comparison of different properties. The study of tiki torches is an allegory for the quest for hotel perfection.</p>
+<p>Here are common traits that can be used for comparison:</p>
+<ul>
+<li>Torches are planted either singularly or in pairs. The pairs look more impressive. We saw evidence of a hotel that once offered &#8220;triples&#8221;, but had since downgraded to singles, an obvious sign of decline in the hotel itself.</li>
+<li>Distance between torches. Torches were typically spaced every 20 yards or every 40 yards. Shorter distances were preferred for the comfort of being able to &#8220;see your next torch.&#8221;</li>
+<li>Distribution of torches. Some hotels loaded-up the lobby or pool area with torches, but used electric lighting to get you back to your room. Consistent torch use was preferred since we considered ourselves to be on vacation even when we were in our room.</li>
+</ul>
+<h2>Hotels vs. Tiki Torches</h2>
+<p>Based on this system, we have developed a chart to compare hotels using the common 5 star ranking system:</p>
+<div id="attachment_720" style="width: 510px" class="wp-caption aligncenter"><a href="http://dougandruth.com/blog/wp-content/uploads/2012/02/torch-chart.jpg"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-720" class="size-full wp-image-720" title="Hawaiian Hotel Ranking System" src="http://dougandruth.com/blog/wp-content/uploads/2012/02/torch-chart.jpg" alt="" width="500" height="750" srcset="/wp-content/uploads/2012/02/torch-chart.jpg 500w, /wp-content/uploads/2012/02/torch-chart-200x300.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></a><p id="caption-attachment-720" class="wp-caption-text">The relative association between hotel service and use of tiki torches.</p></div>
+<p>The pictograms read as follows:</p>
+<ul>
+<li>3 Stars: Torches near the lobby and electric everywhere else.</li>
+<li>3 ½ Stars: Single torches placed evenly, but far apart.</li>
+<li>4 Stars: Pairs of torches placed evenly, but far apart.</li>
+<li>4 ½ Stars: Pairs of torches placed evenly and close together.</li>
+<li>5 Stars: Pairs of torches placed evenly and close together with a high-end burner.</li>
+</ul>
+<p>Yes, that last one was not previously discussed. To get 5 stars, you need to upgrade from the cone-on-a-pipe torch to the fancy artisan shade covering a burner more akin to your propane grill. These torches had a more refined look both because of the blue-er flame and because of the shadows cast from the shade.</p>
+<h2>Conclusion</h2>
+<p>If you&#8217;re planning a trip to Hawaii and you want to know if you are getting a good deal on your hotel or you require a certain level of service, we recommend asking about the tiki torches. Measurements are important, so don&#8217;t let them get away with saying &#8220;we have a lot of torches.&#8221; They all have a lot of torches. Get the facts and your will have a fantastic trip.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Halloween 2007: Tiki Mask of Doom</title>
+		<link>/halloween-2007/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sun, 04 Nov 2007 23:24:52 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[tiki]]></category>
+		<category><![CDATA[tiki torches]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=64</guid>
+
+					<description><![CDATA[&#160;]]></description>
+										<content:encoded><![CDATA[ [<a href="/halloween-2007/">See image gallery at localhost</a>] <p class="has-text-align-center"></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Cursed African Mask" width="620" height="465" src="https://www.youtube.com/embed/Zo9E-RNW2AA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Mask Installation for Our Halloween Party</figcaption></figure>
+
+
+
+<p class="has-text-align-center"></p>
+
+
+
+<p class="has-text-align-center">&nbsp;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Halloween 2007: Tiki Mask of Doom" width="620" height="465" src="https://www.youtube.com/embed/Bn4cfLYys1I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>&nbsp;Tiki Mask of Doom on Halloween Night</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

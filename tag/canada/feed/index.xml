@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Canada &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/canada/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Thu, 17 Apr 2014 16:08:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Gigantic Floating Eyeballs, Part 2</title>
+		<link>/gigantic-floating-eyeballs-part-2/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2009 20:55:09 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[insurmountable tasks]]></category>
+		<category><![CDATA[mirrors]]></category>
+		<category><![CDATA[outsourcing]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=338</guid>
+
+					<description><![CDATA[When the people in Maine told me the acrylic domes had shipped, they left out two important details: They were made in Canada and were being shipped to Maine not from Maine. Yes, the people in Maine outsourced their acrylic forming. This apparently leaves Maine with potatoes and tourism as their only economic engines. When [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>When the people in Maine told me the acrylic domes had shipped, they left out two important details: They were made in Canada and were being shipped <em>to</em> Maine not<em> from</em> Maine. Yes, the people in Maine outsourced their acrylic forming. This apparently leaves Maine with potatoes and tourism as their only economic engines.</p>
+<p>When will I receive them? Soon, they say. Being more specific might somehow break the Ch&#8217;i.</p>
+<p>I can&#8217;t blame all my problems on Canada as so many have tried. It turns out that the minimum distance needed to focus the video projector is about 10 feet. The roof on which this sitting is only 8 feet deep. That would be two feet too long.</p>
+<p>Before I describe the solution, please allow me to stress the importance of testing the viability of your ideas, especially things designed on the back of a napkin or, in this case, the back of a bar napkin.</p>
+<p>I could have checked the focal length at any time in the last four months, but I assumed that because the projector&#8217;s specifications said &#8220;5 feet&#8221; that meant &#8220;5 feet the way you are using it.&#8221; You really can&#8217;t assume anything&#8230; except for an incredulous look  from your wife when you suggest a run down to Staples to drop $1200 on a new projector.</p>
+<p>The solution: A Mirror</p>
+ [<a href="/gigantic-floating-eyeballs-part-2/">See image gallery at localhost</a>] 
+<p>I&#8217;ll be the first to acknowledge that this is not the most elegant solution. The mirror needs to be 32 inches wide. That&#8217;s a lot of weight to be torquing around on the end of a six foot pole. I thought of (and had it suggested to me that) changing the optics of the projector would be the most straightforward approach.</p>
+<p>The projector, I must say, is a marvel of mechanical design. To take it apart and, more to the point, to put it back together seemed like an insurmountable task. The mirror I can have cut locally for $28 plus a couple hours of my time to mount it. Bada <em>bing</em>!</p>
+<p>So, a change in the design will be needed: The mirror-end of the assembly will no longer move. It will pivot, but it will not move horizontally or vertically. That will simplify the lift system to include two pneumatic cylinders rather than three. The eyes will more right, left, and look up. They will not be able to peer down over the edge. Easier, but less impressive.</p>
+<p>Coming up: Assembly.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

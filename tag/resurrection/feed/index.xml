@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>resurrection &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/resurrection/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Wed, 04 Nov 2020 16:27:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>El Burro del Diablo</title>
+		<link>/el-burro-del-diablo/</link>
+					<comments>/el-burro-del-diablo/#comments</comments>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2011 00:43:25 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[donkey]]></category>
+		<category><![CDATA[firecrackers]]></category>
+		<category><![CDATA[PIC-IO]]></category>
+		<category><![CDATA[piñata]]></category>
+		<category><![CDATA[resurrection]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=683</guid>
+
+					<description><![CDATA[We have been talking about doing a Day of the Dead themed Halloween for years. The imagery of hand-made skeletons, posed and dressed as they were know in their happier (living) days has both a roughness and a soulfulness that New England style Halloween lacks. Indeed, Dia de los Muertos is not about ethereal ghosts [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>We have been talking about doing a Day of the Dead themed Halloween for years. The imagery of hand-made skeletons, posed and dressed as they were know in their happier (living) days has both a roughness and a soulfulness that New England style Halloween lacks. Indeed, Dia de los Muertos is not about ethereal ghosts and goblins, but literally about the bones of one&#8217;s ancestors.</p>
+ [<a href="/el-burro-del-diablo/">See image gallery at localhost</a>] 
+<p>The easy route out would be to make (or buy) a bunch of paper mache skeletons, pose them, and be done with it. Unfortunately there two drawbacks with that: First, no one is impressed by paper mache. It lacks any kind of kinetic quality that people expect and want. (It&#8217;s hard to beat a strobe light in a window.) Second, we had a goal of making things more <em>interactive</em> this year.</p>
+<p>Enter the piñata. What&#8217;s more fun than a piñata? Nothing is more fun than a piñata! Once.</p>
+<p>So the question becomes how to resurrect a piñata after it&#8217;s been beaten? Our solution is to allow the piñata to break itself in a controlled manner and put itself back together. Cake.</p>
+<p>Or maybe the <em>real</em> question is what comes <em>out</em> of the piñata? Maybe the payoff is more important than the piñata itself? Philosophical questions aside, there is one thing we do know: It must be a donkey.</p>
+<p>Any Internet search for a traditional ﻿Mexican piñata reveals either a donkey-shaped piñata or a star-shaped thing that would be hard to work with. The donkey is basically a box with legs and a head. Remember kids: When automating anything, your ideal model is a box with legs and a head.</p>
+<p>The game plan is to cut the piñata in half, hinge it at the top, and make the thing open and close whenever someone hits it. We&#8217;ll use a security vibration detector to determine when the donkey has been slapped.</p>
+<p>Since the piñata is made to be destroyed, the first step is to make an inner structure out of plywood. Note the use of duct-tape: Crucial in any design where resiliency is a must.</p>
+ [<a href="/el-burro-del-diablo/">See image gallery at localhost</a>] 
+<p>The hinge is constructed from two aluminum bars. At the center of each bar is a pivot point that carries a box on either side of the pivot. A pneumatic cylinder is hung from the hinge and a wire connects the shaft to each free end of the bar.</p>
+<p>As the shaft extends from the cylinder, the wires are pulled down (or the hinge is pushed up if you want to get complicated); thus, causing the bars to move at the pivot point. The bars push the boxes and the boxes separate.</p>
+ [<a href="/el-burro-del-diablo/">See image gallery at localhost</a>] 
+<p>To make the magic work, we programmed a <a href="http://www.sparkfun.com/products/20" target="_blank" rel="noopener noreferrer">PIC IO board </a>to sequence the opening of the box, triggering of effects, and subsequent closing of the box. This year we got smart and wrote some firmware that allows us to change the sequence without having to reprogram the board. Source code available upon request.</p>
+<p>Where&#8217;s the money shot, you ask? When the boxes open, two <a href="http://www.frightprops.com/flash-cracker.html" target="_blank" rel="noopener noreferrer">firecracker</a> simulators will start making a hell of a lot of noise. That combined with some flashing lights should make this is the definition of &#8220;not subtle.&#8221; We&#8217;ll put up video in the next post&#8230;</p>
+ [<a href="/el-burro-del-diablo/">See image gallery at localhost</a>] 
+]]></content:encoded>
+					
+					<wfw:commentRss>/el-burro-del-diablo/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>piezo trigger &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/piezo-trigger/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sat, 08 Oct 2022 14:17:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2016: The Headhunter&#8217;s Jungle Hut</title>
+		<link>/halloween-2016-the-headhunters-jungle-hut/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sun, 06 Nov 2016 00:07:43 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[piezo trigger]]></category>
+		<category><![CDATA[propane]]></category>
+		<category><![CDATA[samplers]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<category><![CDATA[shrunken head]]></category>
+		<category><![CDATA[skeleton]]></category>
+		<category><![CDATA[Sony Vegas]]></category>
+		<category><![CDATA[tiki]]></category>
+		<category><![CDATA[tiki torches]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2193</guid>
+
+					<description><![CDATA[We have been wanting to improve on our 2007 Tiki theme. That&#160; year we made a giant African mask. The mask spoke and rolled its eyes and we planned on using those features to create a circus barker-like character in a somewhat elaborate interactive display. The show didn&#8217;t make it as far as we wanted. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>We have been wanting to improve on our <a href="http://dougandruth.com/blog/halloween-2007/">2007 Tiki theme</a>. That&nbsp; year we made a giant African mask. The mask spoke and rolled its eyes and we planned on using those features to create a circus barker-like character in a somewhat elaborate interactive display.</p>
+<p>The show didn&#8217;t make it as far as we wanted. They never do, but this year we scrapped the interactive elements and the production became an exercise in set decoration. The porch was clad with reed fencing and jungle vines. Shrunken heads on bamboo pikes. Two Maori warrior shields. Or at least our interpretation of what a vaguely Polynesian warrior&#8217;s shield should look like.&nbsp;</p>
+<p style="text-align: left;"> [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] </p>
+<p>There is some debate as to how far <a href="http://tikiloungetalk.com/tiki-culture/">tiki</a> should stray from Polynesian culture. To be authentically tiki, the environment must be:</p>
+<ul>
+<li>Mysterious</li>
+<li>Exotic</li>
+<li>Richly detailed</li>
+</ul>
+<p>Our take on tiki is that in addition to the above it must be comfortable or romantic and include anything that might wash up on a tropical beach. Over all it must be a form of escapism. Start with a South Pacific island, imagine what floats in from South America, Japan, India and Africa. Then light a torch and pour a drink. That&#8217;s tiki.</p>
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+<p>Our incorporation of tiki into Halloween was only half intuitive. The dark and mysterious aspects are well suited, but the exotic parts not so much. We decided that defining the story to be about headhunters would make the theme more palatable to kids.</p>
+<p>For the music, we went straight to <a href="https://www.google.com/search?q=exotica+music&amp;ie=utf-8&amp;oe=utf-8">exotica</a>. Les Baxter, Martin Denney, <a href="http://www.leftaobuddha.com/">The Left Arm of Buddha</a>, and <a href="http://www.tikiyakiorchestra.com/">The Tikiyaki Orchestra</a>. Is this what a headhunter listens to? Doesn&#8217;t matter. Slower tempo songs added to the feeling of mystery and suspense. The genre speaks the language of adventure and &#8211; somewhat surprisingly &#8211; it is decipherable by people of any age.</p>
+<p>When adding detail, shadow is as important as light. With vines covering the doorway, the darkened space behind added as much to the suspense as the foreground elements. We tried to make the body of the house as dark as possible to put focus on the themed elements. The most detailed element being the jack-o-lantern pineapple tucked into the corner of the porch. It was the kind of Easter egg that makes tiki great.</p>
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+<p>We did make a couple contributions to technology. The first were musical warrior shields. Each shield make a sound when hit. This was a subtle feature that no one picked up on unless shown, but it was fun for little kids. Each shield had a piezo trigger connected to an electronic percussion controller. The controller triggered the &#8220;Tiki Threat&#8221; patch on an E-mu Proteus sound module. Good old 90&#8217;s music technology made even better for having an obviously named sound choice.</p>
+<p>The other new feature were the self-flaring tiki torches. There is nothing that a little propane can&#8217;t fix. Just add a solenoid valve, a regulator, and some copper tubing and you&#8217;re off to the races. They were connected to the VenueMagic show control system that gave all the lighting a soft, flame flicker. The occasional burst of flame kept people ready for the unexpected.</p>
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+<p>Out of the 258 kids to come up our stairs, about half correctly identified the theme as &#8220;tiki.&#8221; That&#8217;s impressive. Tiki is most often identified with adult diversions, but it creeps into pop culture everywhere. It wouldn&#8217;t be a surprise if children picked it up from a trip to Disney World or an old episode of Scooby Doo. Wherever they got it, the theme was much better received than we planned.</p>
+<p><iframe width="620" height="349" src="https://www.youtube.com/embed/jIzt1hxouFA?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+ [<a href="/halloween-2016-the-headhunters-jungle-hut/">See image gallery at localhost</a>] 
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

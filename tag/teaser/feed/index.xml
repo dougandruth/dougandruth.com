@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teaser &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/teaser/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sat, 08 Oct 2022 14:26:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>The Girl with the Hawaiian Vacation</title>
+		<link>/the-girl-with-the-hawaiian-vacation/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Thu, 01 Mar 2012 16:48:32 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Vacation]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[Canon SD 3500 IS]]></category>
+		<category><![CDATA[Sony Vegas]]></category>
+		<category><![CDATA[teaser]]></category>
+		<category><![CDATA[trailer]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=731</guid>
+
+					<description><![CDATA[It is taking a bit of time to post pictures from our vacation in Hawaii. In the meantime, here is a reworking of David Fincher&#8217;s &#8220;The Girl with the Dragon Tattoo&#8221; teaser trailer. Please enjoy with the sound up.]]></description>
+										<content:encoded><![CDATA[<p>It is taking a bit of time to post pictures from our vacation in Hawaii. In the meantime, here is a reworking of David Fincher&#8217;s &#8220;The Girl with the Dragon Tattoo&#8221; <a title="The Girl with the Dragon Tattoo teaser trailer" href="http://www.youtube.com/watch?v=WVLvMg62RPA" target="_blank" rel="noopener">teaser trailer</a>. Please enjoy with the sound up.</p>
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="The Girl with the Hawaiian Vacation" width="620" height="349" src="https://www.youtube.com/embed/iYlr7WCUOdw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

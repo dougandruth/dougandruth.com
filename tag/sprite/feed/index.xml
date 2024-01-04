@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sprite &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/sprite/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sat, 08 Oct 2022 14:15:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halloween 2021: Raiders of the Lost Ark</title>
+		<link>/halloween-2021-raiders-of-the-lost-ark/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 08 Nov 2021 02:16:14 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Canon R6]]></category>
+		<category><![CDATA[DaVinci Resolve]]></category>
+		<category><![CDATA[GoPro Hero 3+]]></category>
+		<category><![CDATA[LG G8]]></category>
+		<category><![CDATA[pneumatic]]></category>
+		<category><![CDATA[religious icons]]></category>
+		<category><![CDATA[show controllers]]></category>
+		<category><![CDATA[Sprite]]></category>
+		<category><![CDATA[VenueMagic]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2282</guid>
+
+					<description><![CDATA[The opening to Raiders of the Lost Ark has to be one of the best sequences in the history of cinema. The fantastic low-tech booby traps. The John Williams score. The visceral feeling of danger with icky spider webs is completely immersive and &#8220;completely immersive&#8221; is always the goal for us. Spoiler: No, we did [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The opening to Raiders of the Lost Ark has to be one of the best sequences in the history of cinema. The fantastic low-tech booby traps. The John Williams score. The visceral feeling of danger with icky spider webs is completely immersive and &#8220;completely immersive&#8221; is always the goal for us.</p>
+
+
+
+<p>Spoiler: No, we did not roll a 30-ton ball down the stairs. But we thought about it.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Halloween 2021: Raiders of the Lost Ark" width="620" height="349" src="https://www.youtube.com/embed/_eRnb6eF0PY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>One of the first hints we had on achieving this was in finding a still-frame of the idol room which we edited the pedestal out of. This we projected on the house so that we didn&#8217;t need to build the whole room. Falling rocks were animated over the image to simulate the destruction of the temple, triggered on a <a rel="noreferrer noopener" href="https://www.frightprops.com/video-visual-effects/digital-video-players/sprite-seamless-looping-hd-triggerable-video-player.html" target="_blank">Sprite </a>video player.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="http://dougandruth.com/blog/wp-content/uploads/2022/10/back-wall-1024x576.jpg" alt="Still frame from Raiders of the Lost Ark" class="wp-image-2283" srcset="/wp-content/uploads/2022/10/back-wall-1024x576.jpg 1024w, /wp-content/uploads/2022/10/back-wall-300x169.jpg 300w, /wp-content/uploads/2022/10/back-wall-768x432.jpg 768w, /wp-content/uploads/2022/10/back-wall-620x349.jpg 620w, /wp-content/uploads/2022/10/back-wall.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>The pedestal was fabricated out of wood and carved foam with foam hardener. In the center was a pneumatic-driven lift mechanism with a Chachapoyan Fertility Idol that we bought on Etsy. Turns out you can buy anything on Etsy.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="http://dougandruth.com/blog/wp-content/uploads/2022/10/20211030_131248_HDR-1-768x1024.jpg" alt="" class="wp-image-2288" srcset="/wp-content/uploads/2022/10/20211030_131248_HDR-1-768x1024.jpg 768w, /wp-content/uploads/2022/10/20211030_131248_HDR-1-225x300.jpg 225w, /wp-content/uploads/2022/10/20211030_131248_HDR-1-1151x1536.jpg 1151w, /wp-content/uploads/2022/10/20211030_131248_HDR-1-1535x2048.jpg 1535w, /wp-content/uploads/2022/10/20211030_131248_HDR-1-620x827.jpg 620w, /wp-content/uploads/2022/10/20211030_131248_HDR-1-scaled.jpg 1919w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<p>As an almost last minute addition, we introduced an ankle blaster on the stairs to simulate the blow dart scene. The compressed air blast worked really good as a scare because it was combined with a stereo blowgun sound effect that panned across the stairs. As in past years, the whole show was run on <a rel="noreferrer noopener" href="https://www.venuemagic.com/" target="_blank">VenueMagic </a>software.</p>
+
+
+
+<p>In all, we had just over 200 kids. We&#8217;ll call it a &#8220;rebuilding&#8221; year. It was definitely the best prepared we have ever been with the setup mostly done at 3pm. Having friends Suchi and Sarath over to hand out candy also made the evening the easiest and most enjoyable we have ever had.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Halloween 2019: Bats</title>
+		<link>/halloween-2019-bats/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2019 01:46:07 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[LG G6]]></category>
+		<category><![CDATA[microcontrollers]]></category>
+		<category><![CDATA[PIC-IO]]></category>
+		<category><![CDATA[repeatability]]></category>
+		<category><![CDATA[Sprite]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=2231</guid>
+
+					<description><![CDATA[The last couple of years has caused us to undertake a review of our technical capabilities. Too much had gone wrong or become unreliable. While the theme is usually our chief concern, this year the goal was to lock-down some of the basic building blocks of our theatrical show system. The first item was video. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The last couple of years has caused us to undertake a review of our technical capabilities. Too much had gone wrong or become unreliable. While the theme is usually our chief concern, this year the goal was to lock-down some of the basic building blocks of our theatrical show system.</p>
+
+
+
+<p>The first item was video. The video is played back on a <a href="https://www.frightprops.com/video-visual-effects/digital-video-players/sprite-seamless-looping-hd-triggerable-video-player.html">MedeaWiz Sprite</a> with a DMX interface. We had tried to use video last year and it failed miserably because of a bad cable connection. It was a stupid problem to have, so that got addressed. But how to use it? A quick search of Halloween related videos on the Internet results in the idea of making bats fly out of the doorway.</p>
+
+
+
+<p>Creating the video was fairly straightforward, but the key to making it feel creepy was in the audio. Without the sound, the images looked a bit like a Rorschach test. They needed that squeaky sound that bats make to add context. More importantly, it needed to sound like the bats were getting closer.</p>
+
+
+
+<p>To make the bats sound menacing, multiple tracks were played across five channels of surround sound. The most distant chirping sounds were at the corners of the house. Closer-up were large wing flapping sounds nearest to the stairs. The wing flapping was not a real bat sound, but the idea of a bat flying close to your head.</p>
+
+
+
+<p>The last channel was placed across the street. We used long-range Bluetooth to transmit the bats sounds to a speaker in our neighbor&#8217;s yard. This is a technical advance we will probably use in the future because it really messed with people. It was fun to watch people during the first three seconds of the video where they thought: There are bats. The bats are coming at me. The bats are everywhere.</p>
+
+
+
+<p>One new piece of tech that we will definitely use every year was a new light beam trigger. We have used a light beam at the base of the stairs to start the show for years, but it always had the problem of re-triggering the show when people exited. We used to mitigate this problem by adding a delay before the show could be restarted, but that works only if people arrive at given rate.</p>
+
+
+
+<p>The new trigger has two light beams. This is similar to the electronic turnstiles Disney used about a decade ago. A microcontroller board was programmed to check the order in which the beams were broken so we could determine the direction of movement. Going up the stairs starts the bat video. Going down the stairs made a cat screeching sound &#8211; just because we could.</p>
+
+
+
+<p>Lastly, we upgraded our speaker system. The new speakers are more weather resistant and handle a lot more power. This was needed to reduce stress as much as wanting to improve sound quality. Rain is inevitable and this year was a perfect example. It was nice to have the speakers out all day in the rain without worrying about them. It was also nice to drive the smaller speakers by the stairs as hard a we wanted to.</p>
+
+
+
+<p>The video below was mixed to be in surround sound, but YouTube re-mixes it down to stereo, so you can&#8217;t really get the full effect. Next time we invite you over, make sure to ask to see the version on the home server.</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Bats Halloween 2019" width="620" height="349" src="https://www.youtube.com/embed/uber7FydMFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Testing the Directional Beam Trigger" width="620" height="349" src="https://www.youtube.com/embed/XuKWYFUxLa4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MIDI &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/midi/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sat, 28 Feb 2009 21:16:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Talking Birds, Part 5</title>
+		<link>/talking-birds-part-5/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Sun, 26 Oct 2008 02:00:10 +0000</pubDate>
+				<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[birds]]></category>
+		<category><![CDATA[Cakewalk]]></category>
+		<category><![CDATA[FreeStyler]]></category>
+		<category><![CDATA[MIDI]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=160</guid>
+
+					<description><![CDATA[Here are the ravens mounted up for programming: Now, all I have to do is: Write a script Record the voices Create about a thousand stop-motion animation frames Integrate the animation in with the lighting queues Make a gravestone for the ravens to sit on I am totaly screwed. Time to start taking vacation days. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Here are the ravens mounted up for programming:</p>
+ [<a href="/talking-birds-part-5/">See image gallery at localhost</a>] 
+<p>Now, all I have to do is:</p>
+<ul>
+<li>Write a script</li>
+<li>Record the voices</li>
+<li>Create about a thousand stop-motion animation frames</li>
+<li>Integrate the animation in with the lighting queues</li>
+<li>Make a gravestone for the ravens to sit on</li>
+</ul>
+<p>I am totaly screwed. Time to start taking vacation days.</p>
+<p>About four months ago I had an idea about the ravens doing a kind of Abbott and Costello routine. I planned on writing another so that the birds would have two alternating speils. With one week left, this isn&#8217;t going to happen. I need one good short speil.</p>
+<p>Over the last several weeks I have been learing to use some new software. There is this lighting queue program called <a href="http://www.freestylerdmx.be/" target="_blank">FreeStyler</a>. It&#8217;s free and seems to do most things I need it to do. And it&#8217;s free!</p>
+<p>The most important feature of FreeStyler is its ability to run sequences in parallel. This makes life easy because the bird&#8217;s sequence can be started independantly from the other lighting sequences.</p>
+<p>Each FreeStyler sequence can be MIDI controlled, so I can plop the audio into <a href="http://cakewalk.com/" target="_blank">Cakewalk</a> along with MIDI events that trigger the lighting queues. This should be easy&#8230;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

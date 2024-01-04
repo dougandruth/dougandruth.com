@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Magic Kingdom &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/magic-kingdom/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sat, 08 Oct 2022 14:24:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Wishes Nightime Spectacular 2010 through 2013</title>
+		<link>/wishes-nightime-spectacular-2010-through-2014/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2014 19:48:42 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Vacation]]></category>
+		<category><![CDATA[audio sync]]></category>
+		<category><![CDATA[Canon 7D]]></category>
+		<category><![CDATA[Canon SD 3500 IS]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[Disney's Polynesian Resort]]></category>
+		<category><![CDATA[fireworks]]></category>
+		<category><![CDATA[Magic Kingdom]]></category>
+		<category><![CDATA[Sony Vegas]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=981</guid>
+
+					<description><![CDATA[After four viewings of the fireworks over the Magic Kingdom at Walt Disney World we have compiled another multi-vantage-point video of the show. This version is an update from the two camera version we did originally. It includes shots from the Polynesian Resort across Seven Seas Lagoon. Close-ups in front of the castle only ended [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>After four viewings of the fireworks over the Magic Kingdom at Walt Disney World we have compiled another multi-vantage-point video of the show.</p>
+<p>This version is an update from the <a title="Wishes Nighttime Spectacular" href="http://dougandruth.com/blog/?p=800">two camera version</a> we did originally. It includes shots from the Polynesian Resort across Seven Seas Lagoon. Close-ups in front of the castle only ended up being close-ups after having to stabilize the video in post. This version also syncs-up the sound better, but is still missing the live audio at the start.</p>
+<p>One or two more trips should get it to where we want it. Next time we&#8217;ll bring a tripod.</p>
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Wishes 2010 - 2013" width="620" height="349" src="https://www.youtube.com/embed/FOuwmBpq100?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
