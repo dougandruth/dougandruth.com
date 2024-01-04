@@ -12,7 +12,7 @@
 	<atom:link href="/category/cooking/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Life, presented as though it were a series of vacations and parties.</description>
-	<lastBuildDate>Sun, 30 Mar 2014 15:35:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Jan 2024 02:24:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,31 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
+		<title>Barbecue!</title>
+		<link>/barbecue/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Thu, 05 Aug 2010 14:11:23 +0000</pubDate>
+				<category><![CDATA[Cooking]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[House]]></category>
+		<category><![CDATA[brisket]]></category>
+		<category><![CDATA[party]]></category>
+		<category><![CDATA[pork]]></category>
+		<category><![CDATA[repeatability]]></category>
+		<category><![CDATA[skeleton]]></category>
+		<category><![CDATA[smoked salmon]]></category>
+		<guid isPermaLink="false">http://dougandruth.com/blog/?p=553</guid>
+
+					<description><![CDATA[Thanks to all who attended, contributed, and took pictures. Clearly, we found the camera (and the skeleton) afterward.]]></description>
+										<content:encoded><![CDATA[<p>Thanks to all who attended, contributed, and took pictures. Clearly, we found the camera (and the skeleton) afterward.</p>
+ [<a href="/barbecue/">See image gallery at localhost</a>] 
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Turducken</title>
 		<link>/turducken/</link>
 		
