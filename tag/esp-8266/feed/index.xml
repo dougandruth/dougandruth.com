@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ESP-8266 &#8211; Doug and Ruth.com</title>
+	<atom:link href="/tag/esp-8266/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Life, presented as though it were a series of vacations and parties.</description>
+	<lastBuildDate>Sun, 10 Nov 2024 00:38:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>Halloween 2023: Curse of the Mummy</title>
+		<link>/halloween-2023-curse-of-the-mummy/</link>
+		
+		<dc:creator><![CDATA[Doug]]></dc:creator>
+		<pubDate>Mon, 06 Nov 2023 02:00:00 +0000</pubDate>
+				<category><![CDATA[Cinematography]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Apoxie Sculpt]]></category>
+		<category><![CDATA[Canon R6]]></category>
+		<category><![CDATA[ESP-8266]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[microcontrollers]]></category>
+		<category><![CDATA[PIC-IO]]></category>
+		<category><![CDATA[RTP MIDI]]></category>
+		<category><![CDATA[VenueMagic]]></category>
+		<guid isPermaLink="false">/?p=2334</guid>
+
+					<description><![CDATA[Back in 2012, we presented The Mummy&#8217;s Curse Puzzle Door of Doom. It seemed like a good time to do it again. But first we need to make some improvements. The door took a pretty good beating in its 3 hours of service the last time around. Parts of the foam sculpt needed to be [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Halloween 2023 Curse of the Mummy" width="620" height="349" src="https://www.youtube.com/embed/_EH20JNaCYM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Back in 2012, we presented <a href="/mummys-curse-puzzle-door-of-doom/" data-type="post" data-id="831">The Mummy&#8217;s Curse Puzzle Door of Doom</a>. It seemed like a good time to do it again. But first we need to make some improvements.<br><br>The door took a pretty good beating in its 3 hours of service the last time around. Parts of the foam sculpt needed to be repaired and repainted. For this we used an epoxy product we heard that other haunt builders use. <a href="https://www.amazon.com/Apoxie-Sculpt-Natural-modeling-compound/dp/B000V56P5S" data-type="link" data-id="https://www.amazon.com/Apoxie-Sculpt-Natural-modeling-compound/dp/B000V56P5S">Aves Apoxie Sculpt</a> is a 2-part modelling compound that is easy to use and sets-up really strong.<br><br>The original control system was on a PIC-IO board, but that had been reused for another project. Since 10 years had passed since the last use of the puzzle door, it seemed like a good time to make a tech upgrade. We chose an <a href="https://www.amazon.com/gp/product/B07PF3NK12">Espressif ESP-8266 module</a>, which is a WiFi enabled microcontroller. The ESP-8266 can be configured for 5 digital inputs, so that would be enough for the 4 puzzle buttons and 1 switch to detect air pressure.<br><br>Having a connection to WiFi allowed us to take an IoT approach to designing our system. Instead of running wires from the front porch to the attic to be connected to the Maris hardware show controller to send MIDI commands that are, in turn, consumed by the VenueMagic software show controller (Ugh), we would use <a href="https://en.wikipedia.org/wiki/RTP-MIDI">RTP MIDI</a> over WiFi to communicate directly from the door switches to VenueMagic.<br><br>RTP MIDI, also known as Apple MIDI, is typically used to wirelessly play a synth keyboard with an iPad. Fortunately for us, there are open-source libraries for the ESP-8266 to allow a MIDI message to be sent every time an &#8220;event&#8221; happens on the door.<br><br>But why stop there? We also need to know when people are heading up the stairs. For that we have our dual light beam solution. That too is on a PIC-IO that was replaced with RTP MIDI on an ESP-8266.<br><br>Things were looking up until Halloween night. By the time we got the puzzle fixed to the front door and powered-up, it was discovered that, well, it didn&#8217;t work. There was either a mechanical or electrical problem with one of the puzzle switches. 5 PM arrived and the problem wasn&#8217;t solved. We quickly pivoted to hitting our guests with some thunder and lightning when we heard &#8220;trick or treat&#8221; outside.<br><br>The only people who asked about the puzzle were high school and college students who had trick or treated in the neighborhood back when they were much younger. It was unfortunate to let them down, but really nice that people of all ages come to see what we were doing. We gave out candy to 222 kids this year and had some great conversations with a whole lot of adults.<br><br>Next year will be scary. We promise.<br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
